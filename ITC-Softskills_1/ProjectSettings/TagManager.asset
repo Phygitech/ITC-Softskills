@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Polygons
+  - Non Polygons
+  - answer
+  - home
+  - Bin1
+  - Bin2
+  - Bin3
+  - Agnikanth
+  - MashaalSingh
+  - Dhuandhar
+  - Sleep
+  - WakeUP
+  - Dressed
+  - MobilePick
+  - Mausi
+  - Eating
+  - DialogParent
+  - ten
+  - zero
+  - five
+  - HasChild
+  - ShoePolish
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Gaze Collider
+  - Objects
+  - Characters
+  - RenderLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: RenderLayer
+    uniqueID: 3676373613
+    locked: 0

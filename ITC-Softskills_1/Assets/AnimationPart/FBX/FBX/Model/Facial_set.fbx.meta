@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: fcc6237d28cd61d4c9c3613c98bd6043
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Correct
+    100002: Earing_Grp
+    100004: Earring
+    100006: Eye_Piercing
+    100008: Eye_Piercing_Grp
+    100010: //RootNode
+    100012: Frame_Frame_1
+    100014: Frame_Frame_2
+    100016: Frame_Frame_3
+    100018: Frame_Frame_4
+    100020: Frame_group1
+    100022: Goggles
+    100024: Hai
+    100026: Hair
+    100028: Hair 1
+    100030: Hair 2
+    100032: Hair_1st_Option
+    100034: Hair_1st_Option 1
+    100036: Hair_1st_Option 2
+    100038: Hair_2nd_Option
+    100040: Hair_4th_Option
+    100042: Hair_5th_Option
+    100044: mannequin1
+    100046: mannequin10
+    100048: mannequin2
+    100050: mannequin3
+    100052: mannequin4
+    100054: mannequin5
+    100056: mannequin6
+    100058: mannequin7
+    100060: mannequin7 1
+    100062: mannequin7 2
+    100064: mannequin8
+    100066: mannequin9
+    100068: Mannequin_Body_Jewellery
+    100070: Mannequin_Facial_Hair_Grp
+    100072: Mannequin_Hair_Styles_Grp
+    100074: Mustache_Option_1
+    100076: Mustache_Option_1 1
+    100078: Mustache_Option_1 2
+    100080: Mustache_Option_2
+    100082: Mustache_Option_3
+    100084: Mustache_Option_4
+    100086: Mustache_Option_5
+    100088: Option_Grp
+    100090: Option_Grp1
+    100092: Option_Grp2
+    100094: Option_Grp3
+    100096: Option_Grp4
+    100098: Style_1
+    100100: Style_2
+    100102: Style_3
+    100104: Style_4
+    100106: Style_5
+    100108: Style_6
+    400000: Correct
+    400002: Earing_Grp
+    400004: Earring
+    400006: Eye_Piercing
+    400008: Eye_Piercing_Grp
+    400010: //RootNode
+    400012: Frame_Frame_1
+    400014: Frame_Frame_2
+    400016: Frame_Frame_3
+    400018: Frame_Frame_4
+    400020: Frame_group1
+    400022: Goggles
+    400024: Hai
+    400026: Hair
+    400028: Hair 1
+    400030: Hair 2
+    400032: Hair_1st_Option
+    400034: Hair_1st_Option 1
+    400036: Hair_1st_Option 2
+    400038: Hair_2nd_Option
+    400040: Hair_4th_Option
+    400042: Hair_5th_Option
+    400044: mannequin1
+    400046: mannequin10
+    400048: mannequin2
+    400050: mannequin3
+    400052: mannequin4
+    400054: mannequin5
+    400056: mannequin6
+    400058: mannequin7
+    400060: mannequin7 1
+    400062: mannequin7 2
+    400064: mannequin8
+    400066: mannequin9
+    400068: Mannequin_Body_Jewellery
+    400070: Mannequin_Facial_Hair_Grp
+    400072: Mannequin_Hair_Styles_Grp
+    400074: Mustache_Option_1
+    400076: Mustache_Option_1 1
+    400078: Mustache_Option_1 2
+    400080: Mustache_Option_2
+    400082: Mustache_Option_3
+    400084: Mustache_Option_4
+    400086: Mustache_Option_5
+    400088: Option_Grp
+    400090: Option_Grp1
+    400092: Option_Grp2
+    400094: Option_Grp3
+    400096: Option_Grp4
+    400098: Style_1
+    400100: Style_2
+    400102: Style_3
+    400104: Style_4
+    400106: Style_5
+    400108: Style_6
+    2100000: Frame_Frame
+    2100002: Pendent
+    2100004: Style01_MAT
+    2100006: Mannequin_Diff
+    2100008: Style02_Moustache_MAT
+    2100010: Style02
+    2100012: Style03_MAT
+    2100014: Style04_MAT
+    2100016: Specs_Glass
+    2100018: Specs
+    2100020: Style05_MAT
+    2300000: Earring
+    2300002: Eye_Piercing
+    2300004: Frame_Frame_1
+    2300006: Frame_Frame_2
+    2300008: Frame_Frame_3
+    2300010: Frame_Frame_4
+    2300012: Goggles
+    2300014: Hai
+    2300016: Hair
+    2300018: Hair 1
+    2300020: Hair 2
+    2300022: Hair_1st_Option
+    2300024: Hair_1st_Option 1
+    2300026: Hair_1st_Option 2
+    2300028: Hair_2nd_Option
+    2300030: Hair_4th_Option
+    2300032: Hair_5th_Option
+    2300034: mannequin1
+    2300036: mannequin10
+    2300038: mannequin2
+    2300040: mannequin3
+    2300042: mannequin4
+    2300044: mannequin5
+    2300046: mannequin6
+    2300048: mannequin7
+    2300050: mannequin7 1
+    2300052: mannequin7 2
+    2300054: mannequin8
+    2300056: mannequin9
+    2300058: Mustache_Option_1
+    2300060: Mustache_Option_1 1
+    2300062: Mustache_Option_1 2
+    2300064: Mustache_Option_2
+    2300066: Mustache_Option_3
+    2300068: Mustache_Option_4
+    2300070: Mustache_Option_5
+    3300000: Earring
+    3300002: Eye_Piercing
+    3300004: Frame_Frame_1
+    3300006: Frame_Frame_2
+    3300008: Frame_Frame_3
+    3300010: Frame_Frame_4
+    3300012: Goggles
+    3300014: Hai
+    3300016: Hair
+    3300018: Hair 1
+    3300020: Hair 2
+    3300022: Hair_1st_Option
+    3300024: Hair_1st_Option 1
+    3300026: Hair_1st_Option 2
+    3300028: Hair_2nd_Option
+    3300030: Hair_4th_Option
+    3300032: Hair_5th_Option
+    3300034: mannequin1
+    3300036: mannequin10
+    3300038: mannequin2
+    3300040: mannequin3
+    3300042: mannequin4
+    3300044: mannequin5
+    3300046: mannequin6
+    3300048: mannequin7
+    3300050: mannequin7 1
+    3300052: mannequin7 2
+    3300054: mannequin8
+    3300056: mannequin9
+    3300058: Mustache_Option_1
+    3300060: Mustache_Option_1 1
+    3300062: Mustache_Option_1 2
+    3300064: Mustache_Option_2
+    3300066: Mustache_Option_3
+    3300068: Mustache_Option_4
+    3300070: Mustache_Option_5
+    4300000: Frame_Frame_1
+    4300002: Frame_Frame_2
+    4300004: Frame_Frame_3
+    4300006: Frame_Frame_4
+    4300008: Eye_Piercing
+    4300010: Mustache_Option_1
+    4300012: Hair_1st_Option
+    4300014: mannequin7
+    4300016: Earring
+    4300018: Mustache_Option_1
+    4300020: Hair_1st_Option
+    4300022: mannequin7
+    4300024: Mustache_Option_2
+    4300026: mannequin6
+    4300028: mannequin8
+    4300030: Mustache_Option_3
+    4300032: Hair_5th_Option
+    4300034: mannequin9
+    4300036: Mustache_Option_4
+    4300038: Hair_2nd_Option
+    4300040: mannequin10
+    4300042: Goggles
+    4300044: Mustache_Option_5
+    4300046: Hair_4th_Option
+    4300048: Mustache_Option_1
+    4300050: Hair_1st_Option
+    4300052: mannequin7
+    4300054: mannequin2
+    4300056: Hair
+    4300058: mannequin1
+    4300060: mannequin3
+    4300062: Hai
+    4300064: mannequin4
+    4300066: Hair
+    4300068: mannequin5
+    4300070: Hair
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: bef4c0a8588c2ab4baa27ad22d0f252e
+timeCreated: 1479728373
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Button_01
+    100002: Button_012
+    100004: Button_016
+    100006: Button_017
+    100008: Button_018
+    100010: Button_019
+    100012: Button_020
+    100014: Button_021
+    100016: Button_022
+    100018: Button_023
+    100020: Button_024
+    100022: Button_025
+    100024: Button_026
+    100026: Button_027
+    100028: Buttons_Grp
+    100030: //RootNode
+    100032: Numpad_Base
+    400000: Button_01
+    400002: Button_012
+    400004: Button_016
+    400006: Button_017
+    400008: Button_018
+    400010: Button_019
+    400012: Button_020
+    400014: Button_021
+    400016: Button_022
+    400018: Button_023
+    400020: Button_024
+    400022: Button_025
+    400024: Button_026
+    400026: Button_027
+    400028: Buttons_Grp
+    400030: //RootNode
+    400032: Numpad_Base
+    2300000: Button_01
+    2300002: Button_012
+    2300004: Button_016
+    2300006: Button_017
+    2300008: Button_018
+    2300010: Button_019
+    2300012: Button_020
+    2300014: Button_021
+    2300016: Button_022
+    2300018: Button_023
+    2300020: Button_024
+    2300022: Button_025
+    2300024: Button_026
+    2300026: Button_027
+    2300028: Numpad_Base
+    3300000: Button_01
+    3300002: Button_012
+    3300004: Button_016
+    3300006: Button_017
+    3300008: Button_018
+    3300010: Button_019
+    3300012: Button_020
+    3300014: Button_021
+    3300016: Button_022
+    3300018: Button_023
+    3300020: Button_024
+    3300022: Button_025
+    3300024: Button_026
+    3300026: Button_027
+    3300028: Numpad_Base
+    4300000: Button_01
+    4300002: Button_012
+    4300004: Button_016
+    4300006: Button_017
+    4300008: Button_018
+    4300010: Button_019
+    4300012: Button_020
+    4300014: Button_021
+    4300016: Button_022
+    4300018: Button_023
+    4300020: Button_024
+    4300022: Button_025
+    4300024: Button_026
+    4300026: Button_027
+    4300028: Numpad_Base
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

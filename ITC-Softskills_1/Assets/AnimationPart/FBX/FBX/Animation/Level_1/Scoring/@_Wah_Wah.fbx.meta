@@ -1,0 +1,734 @@
+fileFormatVersion: 2
+guid: d40f0b9575a022745907ce4726d97c04
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Accesories_Grp
+    100004: Ankle_L
+    100006: Ankle_R
+    100008: Bangles
+    100010: BDS_Angry_Grp
+    100012: BDS_L_Eye_Blink_Grp
+    100014: BDS_R_Eye_Blink_Grp
+    100016: BDS_Shock_Grp
+    100018: BDS_Smile_Cunning_Grp
+    100020: BDS_Smile_Grp
+    100022: Bindi
+    100024: blend_shape_face
+    100026: Blends_group
+    100028: Blouse
+    100030: Body
+    100032: Chest_M
+    100034: Cloth_Grp
+    100036: Cntl_L_Slipper_grp
+    100038: cntrl_joint3
+    100040: cntrl_joint3_grp
+    100042: cntrl_joint4
+    100044: cntrl_joint4_grp
+    100046: cntrl_L_Slipper01
+    100048: cntrl_L_Slipper01_grp
+    100050: cntrl_R_Slipper01
+    100052: cntrl_R_Slipper01_grp
+    100054: Cup_L
+    100056: Cup_R
+    100058: DeformationSystem
+    100060: Earings
+    100062: Elbow_L
+    100064: Elbow_R
+    100066: ElbowPart1_L
+    100068: ElbowPart1_R
+    100070: ElbowPart2_L
+    100072: ElbowPart2_R
+    100074: Eye_Brows
+    100076: Eye_L
+    100078: Eye_R
+    100080: EyeEnd_L
+    100082: EyeEnd_R
+    100084: Face
+    100086: Face_Grp
+    100088: Geometry
+    100090: Goggles
+    100092: Hair
+    100094: Hairs2
+    100096: Hairs3
+    100098: Head_M
+    100100: HeadEnd_M
+    100102: Hip_L
+    100104: Hip_R
+    100106: HipPart1_L
+    100108: HipPart1_R
+    100110: HipPart2_L
+    100112: HipPart2_R
+    100114: IndexFinger1_L
+    100116: IndexFinger1_R
+    100118: IndexFinger2_L
+    100120: IndexFinger2_R
+    100122: IndexFinger3_L
+    100124: IndexFinger3_R
+    100126: IndexFinger4_L
+    100128: IndexFinger4_R
+    100130: Jaw_M
+    100132: JawEnd_M
+    100134: jnt__Saree01
+    100136: jnt__Saree02
+    100138: jnt__Saree03
+    100140: jnt__Saree04
+    100142: jnt__Saree05
+    100144: jnt__Saree06
+    100146: jnt_f_Saree
+    100148: jnt_gogle
+    100150: jnt_hair
+    100152: jnt_l_Earings
+    100154: jnt_l_Eye_Brows01
+    100156: jnt_l_Eye_Brows02
+    100158: jnt_l_Eye_Brows03
+    100160: jnt_Nose_Ring
+    100162: Jnt_r_Earings
+    100164: jnt_r_Eye_Brows01
+    100166: jnt_r_Eye_Brows02
+    100168: jnt_r_Eye_Brows03
+    100170: jnt_teeth_lower
+    100172: jnt_teeth_lower_end
+    100174: jnt_teeth_uper
+    100176: jnt_teeth_uper_end
+    100178: jnt_tung01
+    100180: jnt_tung02
+    100182: jnt_tung03
+    100184: jnt_tung04
+    100186: jnt_tung04 1
+    100188: jnt_tung05
+    100190: jnt_tung06
+    100192: joint2
+    100194: joint3
+    100196: joint4
+    100198: joint5
+    100200: joint6
+    100202: Knee_L
+    100204: Knee_R
+    100206: L_Eye
+    100208: L_Eye 1
+    100210: L_Eye 2
+    100212: L_Eye 3
+    100214: L_Eye 4
+    100216: L_Eye 5
+    100218: L_Eye 6
+    100220: L_Eye_WideEye
+    100222: L_Slipper
+    100224: L_Slipper01
+    100226: Lower_Teeth
+    100228: Lower_Teeth 1
+    100230: Lower_Teeth 2
+    100232: Lower_Teeth 3
+    100234: Lower_Teeth 4
+    100236: Lower_Teeth 5
+    100238: Lower_Teeth 6
+    100240: Main
+    100242: Mala
+    100244: Mausi_Grp
+    100246: mesh
+    100248: MiddleFinger1_L
+    100250: MiddleFinger1_R
+    100252: MiddleFinger2_L
+    100254: MiddleFinger2_R
+    100256: MiddleFinger3_L
+    100258: MiddleFinger3_R
+    100260: MiddleFinger4_L
+    100262: MiddleFinger4_R
+    100264: Neck_M
+    100266: NeckPart1_M
+    100268: NeckPart2_M
+    100270: Nose_Ring
+    100272: Pendant
+    100274: PinkyFinger1_L
+    100276: PinkyFinger1_R
+    100278: PinkyFinger2_L
+    100280: PinkyFinger2_R
+    100282: PinkyFinger3_L
+    100284: PinkyFinger3_R
+    100286: PinkyFinger4_L
+    100288: PinkyFinger4_R
+    100290: R_Eye
+    100292: R_Eye 1
+    100294: R_Eye 2
+    100296: R_Eye 3
+    100298: R_Eye 4
+    100300: R_Eye 5
+    100302: R_Eye 6
+    100304: R_Eye_WideEye
+    100306: R_Slipper
+    100308: R_Slipper01
+    100310: RingFinger1_L
+    100312: RingFinger1_R
+    100314: RingFinger2_L
+    100316: RingFinger2_R
+    100318: RingFinger3_L
+    100320: RingFinger3_R
+    100322: RingFinger4_L
+    100324: RingFinger4_R
+    100326: Root_M
+    100328: RootPart1_M
+    100330: RootPart2_M
+    100332: Saree
+    100334: Scapula_L
+    100336: Scapula_R
+    100338: Shoulder_L
+    100340: Shoulder_R
+    100342: ShoulderPart1_L
+    100344: ShoulderPart1_R
+    100346: ShoulderPart2_L
+    100348: ShoulderPart2_R
+    100350: Spine1_M
+    100352: Spine1Part1_M
+    100354: Spine1Part2_M
+    100356: ThumbFinger1_L
+    100358: ThumbFinger1_R
+    100360: ThumbFinger2_L
+    100362: ThumbFinger2_R
+    100364: ThumbFinger3_L
+    100366: ThumbFinger3_R
+    100368: ThumbFinger4_L
+    100370: ThumbFinger4_R
+    100372: Toes_L
+    100374: Toes_R
+    100376: ToesEnd_L
+    100378: ToesEnd_R
+    100380: Tongue
+    100382: Tongue 1
+    100384: Tongue 2
+    100386: Tongue 3
+    100388: Tongue 4
+    100390: Tongue 5
+    100392: Tongue 6
+    100394: Upper_Teeth
+    100396: Upper_Teeth 1
+    100398: Upper_Teeth 2
+    100400: Upper_Teeth 3
+    100402: Upper_Teeth 4
+    100404: Upper_Teeth 5
+    100406: Upper_Teeth 6
+    100408: Wrist_L
+    100410: Wrist_R
+    400000: //RootNode
+    400002: Accesories_Grp
+    400004: Ankle_L
+    400006: Ankle_R
+    400008: Bangles
+    400010: BDS_Angry_Grp
+    400012: BDS_L_Eye_Blink_Grp
+    400014: BDS_R_Eye_Blink_Grp
+    400016: BDS_Shock_Grp
+    400018: BDS_Smile_Cunning_Grp
+    400020: BDS_Smile_Grp
+    400022: Bindi
+    400024: blend_shape_face
+    400026: Blends_group
+    400028: Blouse
+    400030: Body
+    400032: Chest_M
+    400034: Cloth_Grp
+    400036: Cntl_L_Slipper_grp
+    400038: cntrl_joint3
+    400040: cntrl_joint3_grp
+    400042: cntrl_joint4
+    400044: cntrl_joint4_grp
+    400046: cntrl_L_Slipper01
+    400048: cntrl_L_Slipper01_grp
+    400050: cntrl_R_Slipper01
+    400052: cntrl_R_Slipper01_grp
+    400054: Cup_L
+    400056: Cup_R
+    400058: DeformationSystem
+    400060: Earings
+    400062: Elbow_L
+    400064: Elbow_R
+    400066: ElbowPart1_L
+    400068: ElbowPart1_R
+    400070: ElbowPart2_L
+    400072: ElbowPart2_R
+    400074: Eye_Brows
+    400076: Eye_L
+    400078: Eye_R
+    400080: EyeEnd_L
+    400082: EyeEnd_R
+    400084: Face
+    400086: Face_Grp
+    400088: Geometry
+    400090: Goggles
+    400092: Hair
+    400094: Hairs2
+    400096: Hairs3
+    400098: Head_M
+    400100: HeadEnd_M
+    400102: Hip_L
+    400104: Hip_R
+    400106: HipPart1_L
+    400108: HipPart1_R
+    400110: HipPart2_L
+    400112: HipPart2_R
+    400114: IndexFinger1_L
+    400116: IndexFinger1_R
+    400118: IndexFinger2_L
+    400120: IndexFinger2_R
+    400122: IndexFinger3_L
+    400124: IndexFinger3_R
+    400126: IndexFinger4_L
+    400128: IndexFinger4_R
+    400130: Jaw_M
+    400132: JawEnd_M
+    400134: jnt__Saree01
+    400136: jnt__Saree02
+    400138: jnt__Saree03
+    400140: jnt__Saree04
+    400142: jnt__Saree05
+    400144: jnt__Saree06
+    400146: jnt_f_Saree
+    400148: jnt_gogle
+    400150: jnt_hair
+    400152: jnt_l_Earings
+    400154: jnt_l_Eye_Brows01
+    400156: jnt_l_Eye_Brows02
+    400158: jnt_l_Eye_Brows03
+    400160: jnt_Nose_Ring
+    400162: Jnt_r_Earings
+    400164: jnt_r_Eye_Brows01
+    400166: jnt_r_Eye_Brows02
+    400168: jnt_r_Eye_Brows03
+    400170: jnt_teeth_lower
+    400172: jnt_teeth_lower_end
+    400174: jnt_teeth_uper
+    400176: jnt_teeth_uper_end
+    400178: jnt_tung01
+    400180: jnt_tung02
+    400182: jnt_tung03
+    400184: jnt_tung04
+    400186: jnt_tung04 1
+    400188: jnt_tung05
+    400190: jnt_tung06
+    400192: joint2
+    400194: joint3
+    400196: joint4
+    400198: joint5
+    400200: joint6
+    400202: Knee_L
+    400204: Knee_R
+    400206: L_Eye
+    400208: L_Eye 1
+    400210: L_Eye 2
+    400212: L_Eye 3
+    400214: L_Eye 4
+    400216: L_Eye 5
+    400218: L_Eye 6
+    400220: L_Eye_WideEye
+    400222: L_Slipper
+    400224: L_Slipper01
+    400226: Lower_Teeth
+    400228: Lower_Teeth 1
+    400230: Lower_Teeth 2
+    400232: Lower_Teeth 3
+    400234: Lower_Teeth 4
+    400236: Lower_Teeth 5
+    400238: Lower_Teeth 6
+    400240: Main
+    400242: Mala
+    400244: Mausi_Grp
+    400246: mesh
+    400248: MiddleFinger1_L
+    400250: MiddleFinger1_R
+    400252: MiddleFinger2_L
+    400254: MiddleFinger2_R
+    400256: MiddleFinger3_L
+    400258: MiddleFinger3_R
+    400260: MiddleFinger4_L
+    400262: MiddleFinger4_R
+    400264: Neck_M
+    400266: NeckPart1_M
+    400268: NeckPart2_M
+    400270: Nose_Ring
+    400272: Pendant
+    400274: PinkyFinger1_L
+    400276: PinkyFinger1_R
+    400278: PinkyFinger2_L
+    400280: PinkyFinger2_R
+    400282: PinkyFinger3_L
+    400284: PinkyFinger3_R
+    400286: PinkyFinger4_L
+    400288: PinkyFinger4_R
+    400290: R_Eye
+    400292: R_Eye 1
+    400294: R_Eye 2
+    400296: R_Eye 3
+    400298: R_Eye 4
+    400300: R_Eye 5
+    400302: R_Eye 6
+    400304: R_Eye_WideEye
+    400306: R_Slipper
+    400308: R_Slipper01
+    400310: RingFinger1_L
+    400312: RingFinger1_R
+    400314: RingFinger2_L
+    400316: RingFinger2_R
+    400318: RingFinger3_L
+    400320: RingFinger3_R
+    400322: RingFinger4_L
+    400324: RingFinger4_R
+    400326: Root_M
+    400328: RootPart1_M
+    400330: RootPart2_M
+    400332: Saree
+    400334: Scapula_L
+    400336: Scapula_R
+    400338: Shoulder_L
+    400340: Shoulder_R
+    400342: ShoulderPart1_L
+    400344: ShoulderPart1_R
+    400346: ShoulderPart2_L
+    400348: ShoulderPart2_R
+    400350: Spine1_M
+    400352: Spine1Part1_M
+    400354: Spine1Part2_M
+    400356: ThumbFinger1_L
+    400358: ThumbFinger1_R
+    400360: ThumbFinger2_L
+    400362: ThumbFinger2_R
+    400364: ThumbFinger3_L
+    400366: ThumbFinger3_R
+    400368: ThumbFinger4_L
+    400370: ThumbFinger4_R
+    400372: Toes_L
+    400374: Toes_R
+    400376: ToesEnd_L
+    400378: ToesEnd_R
+    400380: Tongue
+    400382: Tongue 1
+    400384: Tongue 2
+    400386: Tongue 3
+    400388: Tongue 4
+    400390: Tongue 5
+    400392: Tongue 6
+    400394: Upper_Teeth
+    400396: Upper_Teeth 1
+    400398: Upper_Teeth 2
+    400400: Upper_Teeth 3
+    400402: Upper_Teeth 4
+    400404: Upper_Teeth 5
+    400406: Upper_Teeth 6
+    400408: Wrist_L
+    400410: Wrist_R
+    2100000: Mausi_Cloth
+    2100002: Mausi_Hand
+    2100004: Saree_Diff
+    2100006: Hand_Mat
+    2100008: Blouse_DIff
+    2100010: Ornament
+    2100012: Ornament_Mat
+    2100014: Specs_Glass
+    2100016: Specs
+    2100018: Mausi_Face
+    2100020: Mausi_Hair
+    2100022: Mausi_Eye
+    2100024: Hair1_Mat1
+    2100026: Ornament_Mat12
+    2300000: Bindi
+    2300002: L_Eye
+    2300004: L_Eye 1
+    2300006: L_Eye 2
+    2300008: L_Eye 3
+    2300010: L_Eye 4
+    2300012: L_Eye 5
+    2300014: L_Eye_WideEye
+    2300016: L_Slipper01
+    2300018: Lower_Teeth
+    2300020: Lower_Teeth 1
+    2300022: Lower_Teeth 2
+    2300024: Lower_Teeth 3
+    2300026: Lower_Teeth 4
+    2300028: Lower_Teeth 5
+    2300030: R_Eye
+    2300032: R_Eye 1
+    2300034: R_Eye 2
+    2300036: R_Eye 3
+    2300038: R_Eye 4
+    2300040: R_Eye 5
+    2300042: R_Eye_WideEye
+    2300044: R_Slipper01
+    2300046: Tongue
+    2300048: Tongue 1
+    2300050: Tongue 2
+    2300052: Tongue 3
+    2300054: Tongue 4
+    2300056: Tongue 5
+    2300058: Upper_Teeth
+    2300060: Upper_Teeth 1
+    2300062: Upper_Teeth 2
+    2300064: Upper_Teeth 3
+    2300066: Upper_Teeth 4
+    2300068: Upper_Teeth 5
+    3300000: Bindi
+    3300002: L_Eye
+    3300004: L_Eye 1
+    3300006: L_Eye 2
+    3300008: L_Eye 3
+    3300010: L_Eye 4
+    3300012: L_Eye 5
+    3300014: L_Eye_WideEye
+    3300016: L_Slipper01
+    3300018: Lower_Teeth
+    3300020: Lower_Teeth 1
+    3300022: Lower_Teeth 2
+    3300024: Lower_Teeth 3
+    3300026: Lower_Teeth 4
+    3300028: Lower_Teeth 5
+    3300030: R_Eye
+    3300032: R_Eye 1
+    3300034: R_Eye 2
+    3300036: R_Eye 3
+    3300038: R_Eye 4
+    3300040: R_Eye 5
+    3300042: R_Eye_WideEye
+    3300044: R_Slipper01
+    3300046: Tongue
+    3300048: Tongue 1
+    3300050: Tongue 2
+    3300052: Tongue 3
+    3300054: Tongue 4
+    3300056: Tongue 5
+    3300058: Upper_Teeth
+    3300060: Upper_Teeth 1
+    3300062: Upper_Teeth 2
+    3300064: Upper_Teeth 3
+    3300066: Upper_Teeth 4
+    3300068: Upper_Teeth 5
+    4300000: Bindi
+    4300002: Body
+    4300004: Saree
+    4300006: Blouse
+    4300008: Earings
+    4300010: Bangles
+    4300012: Nose_Ring
+    4300014: R_Slipper
+    4300016: L_Slipper
+    4300018: Mala
+    4300020: Goggles
+    4300022: Pendant
+    4300024: Face
+    4300026: Upper_Teeth
+    4300028: Tongue
+    4300030: Eye_Brows
+    4300032: L_Eye
+    4300034: R_Eye
+    4300036: Lower_Teeth
+    4300038: Lower_Teeth
+    4300040: Upper_Teeth
+    4300042: Tongue
+    4300044: L_Eye
+    4300046: R_Eye
+    4300048: Lower_Teeth
+    4300050: Upper_Teeth
+    4300052: Tongue
+    4300054: L_Eye
+    4300056: R_Eye
+    4300058: Lower_Teeth
+    4300060: Upper_Teeth
+    4300062: Tongue
+    4300064: L_Eye
+    4300066: R_Eye
+    4300068: Lower_Teeth
+    4300070: Upper_Teeth
+    4300072: Tongue
+    4300074: L_Eye
+    4300076: R_Eye
+    4300078: Lower_Teeth
+    4300080: Upper_Teeth
+    4300082: Tongue
+    4300084: L_Eye
+    4300086: R_Eye
+    4300088: Lower_Teeth
+    4300090: Upper_Teeth
+    4300092: Tongue
+    4300094: L_Eye
+    4300096: R_Eye
+    4300098: L_Eye_WideEye
+    4300100: R_Eye_WideEye
+    4300102: L_Slipper01
+    4300104: R_Slipper01
+    4300106: Hairs2
+    4300108: Hairs3
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Bangles
+    13700002: Blouse
+    13700004: Body
+    13700006: Earings
+    13700008: Eye_Brows
+    13700010: Face
+    13700012: Goggles
+    13700014: Hairs2
+    13700016: Hairs3
+    13700018: L_Eye 6
+    13700020: L_Slipper
+    13700022: Lower_Teeth 6
+    13700024: Mala
+    13700026: Nose_Ring
+    13700028: Pendant
+    13700030: R_Eye 6
+    13700032: R_Slipper
+    13700034: Saree
+    13700036: Tongue 6
+    13700038: Upper_Teeth 6
+    13700040: L_Eye
+    13700042: Lower_Teeth
+    13700044: R_Eye
+    13700046: Tongue
+    13700048: Upper_Teeth
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blouse_DIff
+    second: {fileID: 2100000, guid: 05680984fb090dc458ab287f431dd5a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair1_Mat1
+    second: {fileID: 2100000, guid: d6c72505cfc55c549b58132a48451502, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hand_Mat
+    second: {fileID: 2100000, guid: cc3a38cfc03aeb947ade508dbc845560, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mausi_Cloth
+    second: {fileID: 2100000, guid: 629f513e3e42cfa4c8e89f2a4c54dfe7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mausi_Eye
+    second: {fileID: 2100000, guid: 286811b42ddbae445b65ecdb6d19f3cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mausi_Face
+    second: {fileID: 2100000, guid: 26f382339a619244fb03c6bc241c9f88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mausi_Hair
+    second: {fileID: 2100000, guid: d6c72505cfc55c549b58132a48451502, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mausi_Hand
+    second: {fileID: 2100000, guid: cc3a38cfc03aeb947ade508dbc845560, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ornament
+    second: {fileID: 2100000, guid: 265dd59671a8b024a8d527bff8de7251, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ornament_Mat
+    second: {fileID: 2100000, guid: 265dd59671a8b024a8d527bff8de7251, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ornament_Mat12
+    second: {fileID: 2100000, guid: 265dd59671a8b024a8d527bff8de7251, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Saree_Diff
+    second: {fileID: 2100000, guid: 1a3b2f40a7ca78046b76678dcee28c08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Specs
+    second: {fileID: 2100000, guid: 74d2341d262fc8a4bb0ac1af22c5da80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Specs_Glass
+    second: {fileID: 2100000, guid: a78380f69676d2c448fb18eb5a0f0434, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

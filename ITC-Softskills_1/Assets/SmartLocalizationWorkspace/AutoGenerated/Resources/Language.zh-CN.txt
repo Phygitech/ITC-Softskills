@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root><!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+	<data name="@_Chewing Gum_Mausi" xml:space="preserve">
+		<value />
+	</data>
+	<data name="@_Chi Chi_Mausi" xml:space="preserve">
+		<value />
+	</data>
+	<data name="@_Deo" xml:space="preserve">
+		<value />
+	</data>
+	<data name="@_Dont forget your water bottle" xml:space="preserve">
+		<value />
+	</data>
+	<data name="@_mausi_Shirt_hanging_out" xml:space="preserve">
+		<value />
+	</data>
+	<data name="@_NinjaMausi_intro" xml:space="preserve">
+		<value />
+	</data>
+	<data name="@_WakeUp" xml:space="preserve">
+		<value />
+	</data>
+	<data name="AppVO" xml:space="preserve">
+		<value />
+	</data>
+	<data name="ButtonIntroBg" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Btn_ActivityMenu" xml:space="preserve">
+		<value>活动菜单</value>
+	</data>
+	<data name="C_Btn_No" xml:space="preserve">
+		<value>不是</value>
+	</data>
+	<data name="C_Btn_Quit" xml:space="preserve">
+		<value>离开</value>
+	</data>
+	<data name="C_Btn_RestartActivity" xml:space="preserve">
+		<value>重新启动活动</value>
+	</data>
+	<data name="C_Btn_Resume" xml:space="preserve">
+		<value>重新开始</value>
+	</data>
+	<data name="C_Btn_Yes" xml:space="preserve">
+		<value>是的</value>
+	</data>
+	<data name="C_Continue" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_ContinueProceed" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Inst_CheckNetworkConnection" xml:space="preserve">
+		<value>请检查你的网络连接或稍后再试。</value>
+	</data>
+	<data name="C_Inst_QuitMessage" xml:space="preserve">
+		<value>你确定要离开吗?</value>
+	</data>
+	<data name="C_Inst_ServerError" xml:space="preserve">
+		<value>内部服务器错误</value>
+	</data>
+	<data name="C_Timer" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_TipIns" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_TryAgain1" xml:space="preserve">
+		<value>请重试。</value>
+	</data>
+	<data name="C_TryAgain2" xml:space="preserve">
+		<value>选择有误。</value>
+	</data>
+	<data name="C_TryAgain3" xml:space="preserve">
+		<value>不完全正确。</value>
+	</data>
+	<data name="C_WellDone1" xml:space="preserve">
+		<value>做得好!</value>
+	</data>
+	<data name="C_WellDone2" xml:space="preserve">
+		<value>答对了！</value>
+	</data>
+	<data name="C_WellDone3" xml:space="preserve">
+		<value>回答正确!</value>
+	</data>
+	<data name="Choose_Language" xml:space="preserve">
+		<value>选择语言</value>
+	</data>
+	<data name="ChoseVO" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Clapping_mausi" xml:space="preserve">
+		<value />
+	</data>
+	<data name="ClickMe" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Close" xml:space="preserve">
+		<value>关闭</value>
+	</data>
+	<data name="ContinueBtn" xml:space="preserve">
+		<value />
+	</data>
+	<data name="DragDropMsg" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Exit" xml:space="preserve">
+		<value>退出</value>
+	</data>
+	<data name="ExitMsg" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Instruction" xml:space="preserve">
+		<value />
+	</data>
+	<data name="IntroHeading1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="IntroHeading2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="IntroImage1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="IntroImage2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="IntroImage3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="IntroImage4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="IntroImage5" xml:space="preserve">
+		<value />
+	</data>
+	<data name="IntroImage6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="IntroImage7" xml:space="preserve">
+		<value />
+	</data>
+	<data name="IntroSlide" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L1_Inst_DragWithinTwoMin" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L1_Inst_Probs" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Asso" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Belt" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_BrOst" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_CollorTees" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Denim" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Footwear" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_LikeAnyOf" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_PickAny" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_WhichAppropriate" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_WhichChoose" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_WhichSelect" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_NorTrouser" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_PlainDenim" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_RegShirt" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Shirt" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Shoes" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Socks" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Tees" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Trouser" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Agnikanth" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_BodyJwell" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Dhuandhar" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_FacialHair" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_HairStyleLabel" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Inst_CharInst" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Inst_ChooseChar" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Inst_DhuadharIntro" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Mashaal" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Nails" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_SelectContinue" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_SelectOpt" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L4_Inst_ModuleComplete" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Level1" xml:space="preserve">
+		<value>多边形介绍</value>
+	</data>
+	<data name="Level2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Level3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Level4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="LookAroundMsg" xml:space="preserve">
+		<value />
+	</data>
+	<data name="M1L1_GameplayIntro" xml:space="preserve">
+		<value />
+	</data>
+	<data name="mausi_dirty_hair" xml:space="preserve">
+		<value />
+	</data>
+	<data name="mausi_KEEP_FACE_CLEAN" xml:space="preserve">
+		<value />
+	</data>
+	<data name="mausi_PULL_YOU_SOCKS" xml:space="preserve">
+		<value />
+	</data>
+	<data name="mausi_well_fitted_watch" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Menu_Level1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="MoveForwardMsg" xml:space="preserve">
+		<value />
+	</data>
+	<data name="MoveHighLightArea" xml:space="preserve">
+		<value />
+	</data>
+	<data name="New Key6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Objective" xml:space="preserve">
+		<value>查看学习目标</value>
+	</data>
+	<data name="ObjectiveContent" xml:space="preserve">
+		<value />
+	</data>
+	<data name="OkBtn" xml:space="preserve">
+		<value>确定</value>
+	</data>
+	<data name="Panel_ContinueBtn" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Probs" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Score" xml:space="preserve">
+		<value>得分 ：</value>
+	</data>
+	<data name="SelectMsg" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Selectrightans" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Setup" xml:space="preserve">
+		<value />
+	</data>
+	<data name="SetupIntro" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Task_Completed" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Tips" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Tips_1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Tips_2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Tips_3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Tips_4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Title" xml:space="preserve">
+		<value>多边形</value>
+	</data>
+	<data name="TryMsg" xml:space="preserve">
+		<value />
+	</data>
+	<data name="VirtualRealityTrial" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Vo_Dhuandhar_WakeUp" xml:space="preserve">
+		<value />
+	</data>
+	<data name="VR_platform_trial" xml:space="preserve">
+		<value />
+	</data>
+	<data name="WelcomeBg" xml:space="preserve">
+		<value />
+	</data>
+	<data name="WellDoneMsg" xml:space="preserve">
+		<value />
+	</data>
+	<data name="ZoomMsg" xml:space="preserve">
+		<value />
+	</data>
+	<data name="@_Gentlemen do not eat gutkha_Mausi" xml:space="preserve">
+		<value />
+	</data>
+</root>

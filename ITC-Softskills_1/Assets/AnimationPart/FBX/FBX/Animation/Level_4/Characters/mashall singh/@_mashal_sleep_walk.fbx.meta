@@ -1,0 +1,795 @@
+fileFormatVersion: 2
+guid: ef50c82bfcbb87346ad4cbb3227858b9
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: AlarmHand
+    100004: AlarmHand 1
+    100006: Ankle
+    100008: Ankle_L
+    100010: Ankle_R
+    100012: Buttons
+    100014: CAM
+    100016: Chest
+    100018: Chest_M
+    100020: Clock_Grp
+    100022: Clock_Grp 1
+    100024: Clock_Grp 2
+    100026: Clock_Grp 3
+    100028: ClockBody
+    100030: ClockBody 1
+    100032: ClockPins_01
+    100034: ClockPins_01 1
+    100036: ClockPins_02
+    100038: ClockPins_02 1
+    100040: cntrl_AlarmHand
+    100042: cntrl_AlarmHand 1
+    100044: cntrl_AlarmHand_grp
+    100046: cntrl_AlarmHand_grp 1
+    100048: cntrl_Clock_Grp
+    100050: cntrl_Clock_Grp 1
+    100052: cntrl_Clock_Grp 2
+    100054: cntrl_Clock_Grp 3
+    100056: cntrl_ClockPins_01
+    100058: cntrl_ClockPins_01 1
+    100060: cntrl_ClockPins_01_grp
+    100062: cntrl_ClockPins_01_grp 1
+    100064: cntrl_ClockPins_02
+    100066: cntrl_ClockPins_02 1
+    100068: cntrl_ClockPins_02_grp
+    100070: cntrl_ClockPins_02_grp 1
+    100072: cntrl_joint1
+    100074: cntrl_joint1_grp
+    100076: cntrl_joint2
+    100078: cntrl_joint2_grp
+    100080: cntrl_joint3
+    100082: cntrl_joint3_grp
+    100084: cntrl_Pellow_Jntgrp
+    100086: cntrl_SecondsHand
+    100088: cntrl_SecondsHand 1
+    100090: cntrl_SecondsHand_grp
+    100092: cntrl_SecondsHand_grp 1
+    100094: cntrl_Snooze
+    100096: cntrl_Snooze 1
+    100098: cntrl_Snooze_grp
+    100100: cntrl_Snooze_grp 1
+    100102: cntrl_SwitchOff
+    100104: cntrl_SwitchOff 1
+    100106: cntrl_SwitchOff_grp
+    100108: cntrl_SwitchOff_grp 1
+    100110: Cup
+    100112: Cup_L
+    100114: Cup_R
+    100116: DeformationSystem
+    100118: Elbow
+    100120: Elbow_L
+    100122: Elbow_R
+    100124: ElbowPart1_L
+    100126: ElbowPart1_R
+    100128: ElbowPart2_L
+    100130: ElbowPart2_R
+    100132: Eye
+    100134: Eye_L
+    100136: Eye_R
+    100138: EyeEnd
+    100140: EyeEnd_L
+    100142: EyeEnd_R
+    100144: Face_Grp
+    100146: FitSkeleton
+    100148: FootSideInner
+    100150: FootSideOuter
+    100152: Formal_Dress_Grp
+    100154: Formal_Jeans_Character_Grp
+    100156: Geometry
+    100158: Glass
+    100160: Glass 1
+    100162: Group1
+    100164: group5
+    100166: Hair
+    100168: Hands
+    100170: Head
+    100172: Head_M
+    100174: HeadEnd
+    100176: HeadEnd_M
+    100178: Heel
+    100180: Hip
+    100182: Hip_L
+    100184: Hip_L_poly
+    100186: Hip_R
+    100188: Hip_R_poly
+    100190: HipPart1_L
+    100192: HipPart1_R
+    100194: HipPart2_L
+    100196: HipPart2_R
+    100198: IndexFinger1
+    100200: IndexFinger1_L
+    100202: IndexFinger1_L_poly
+    100204: IndexFinger1_R
+    100206: IndexFinger1_R_poly
+    100208: IndexFinger2
+    100210: IndexFinger2_L
+    100212: IndexFinger2_R
+    100214: IndexFinger3
+    100216: IndexFinger3_L
+    100218: IndexFinger3_R
+    100220: IndexFinger4
+    100222: IndexFinger4_L
+    100224: IndexFinger4_R
+    100226: Jaw
+    100228: Jaw_M
+    100230: JawEnd
+    100232: JawEnd_M
+    100234: jnt_l_eye_brow01
+    100236: jnt_l_eye_brow02
+    100238: jnt_l_eye_brow03
+    100240: jnt_Lower_Teeth
+    100242: jnt_Lower_Teeth_end
+    100244: jnt_r_eye_brow01
+    100246: jnt_r_eye_brow02
+    100248: jnt_r_eye_brow03
+    100250: jnt_tung01
+    100252: jnt_tung04
+    100254: jnt_tung05
+    100256: jnt_tung06
+    100258: jnt_tung07
+    100260: jnt_Upper_Teeth
+    100262: jnt_Upper_Teeth_end
+    100264: joint1
+    100266: joint2
+    100268: joint3
+    100270: joint4
+    100272: Knee
+    100274: Knee_L
+    100276: Knee_R
+    100278: L_Eye
+    100280: Lower_Teeth
+    100282: Main
+    100284: Main_Face
+    100286: MeshGeometry
+    100288: MiddleFinger1
+    100290: MiddleFinger1_L
+    100292: MiddleFinger1_L_poly
+    100294: MiddleFinger1_R
+    100296: MiddleFinger1_R_poly
+    100298: MiddleFinger2
+    100300: MiddleFinger2_L
+    100302: MiddleFinger2_R
+    100304: MiddleFinger3
+    100306: MiddleFinger3_L
+    100308: MiddleFinger3_R
+    100310: MiddleFinger4
+    100312: MiddleFinger4_L
+    100314: MiddleFinger4_R
+    100316: Neck
+    100318: Neck_M
+    100320: Neck_M_poly
+    100322: NeckPart1_M
+    100324: NeckPart2_M
+    100326: Pellow
+    100328: Pellow_Jntgrp
+    100330: Pellow_Jntgrp 1
+    100332: PinkyFinger1
+    100334: PinkyFinger1_L
+    100336: PinkyFinger1_L_poly
+    100338: PinkyFinger1_R
+    100340: PinkyFinger1_R_poly
+    100342: PinkyFinger2
+    100344: PinkyFinger2_L
+    100346: PinkyFinger2_R
+    100348: PinkyFinger3
+    100350: PinkyFinger3_L
+    100352: PinkyFinger3_R
+    100354: PinkyFinger4
+    100356: PinkyFinger4_L
+    100358: PinkyFinger4_R
+    100360: R_Eye
+    100362: Regular_Jeans
+    100364: RingFinger1
+    100366: RingFinger1_L
+    100368: RingFinger1_L_poly
+    100370: RingFinger1_R
+    100372: RingFinger1_R_poly
+    100374: RingFinger2
+    100376: RingFinger2_L
+    100378: RingFinger2_R
+    100380: RingFinger3
+    100382: RingFinger3_L
+    100384: RingFinger3_R
+    100386: RingFinger4
+    100388: RingFinger4_L
+    100390: RingFinger4_R
+    100392: Root
+    100394: Root_M
+    100396: RootPart1_M
+    100398: RootPart2_M
+    100400: Scapula
+    100402: Scapula_L
+    100404: Scapula_R
+    100406: SecondsHand
+    100408: SecondsHand 1
+    100410: Shirt
+    100412: Shoulder
+    100414: Shoulder_L
+    100416: Shoulder_L_poly
+    100418: Shoulder_R
+    100420: Shoulder_R_poly
+    100422: ShoulderPart1_L
+    100424: ShoulderPart1_R
+    100426: ShoulderPart2_L
+    100428: ShoulderPart2_R
+    100430: Snooze
+    100432: Snooze 1
+    100434: Socks2
+    100436: Socks3
+    100438: Spine1
+    100440: Spine1_M
+    100442: Spine1_M_poly
+    100444: Spine1Part1_M
+    100446: Spine1Part2_M
+    100448: SwitchOff
+    100450: SwitchOff 1
+    100452: ThumbFinger1
+    100454: ThumbFinger1_L
+    100456: ThumbFinger1_R
+    100458: ThumbFinger2
+    100460: ThumbFinger2_L
+    100462: ThumbFinger2_L_poly
+    100464: ThumbFinger2_R
+    100466: ThumbFinger2_R_poly
+    100468: ThumbFinger3
+    100470: ThumbFinger3_L
+    100472: ThumbFinger3_R
+    100474: ThumbFinger4
+    100476: ThumbFinger4_L
+    100478: ThumbFinger4_R
+    100480: Toes
+    100482: Toes_L
+    100484: Toes_R
+    100486: ToesEnd
+    100488: ToesEnd_L
+    100490: ToesEnd_R
+    100492: Tongue
+    100494: transform1
+    100496: transform2
+    100498: transform3
+    100500: Upper_Teeth
+    100502: WakeUp1
+    100504: Wrist
+    100506: Wrist_L
+    100508: Wrist_R
+    400000: //RootNode
+    400002: AlarmHand
+    400004: AlarmHand 1
+    400006: Ankle
+    400008: Ankle_L
+    400010: Ankle_R
+    400012: Buttons
+    400014: CAM
+    400016: Chest
+    400018: Chest_M
+    400020: Clock_Grp
+    400022: Clock_Grp 1
+    400024: Clock_Grp 2
+    400026: Clock_Grp 3
+    400028: ClockBody
+    400030: ClockBody 1
+    400032: ClockPins_01
+    400034: ClockPins_01 1
+    400036: ClockPins_02
+    400038: ClockPins_02 1
+    400040: cntrl_AlarmHand
+    400042: cntrl_AlarmHand 1
+    400044: cntrl_AlarmHand_grp
+    400046: cntrl_AlarmHand_grp 1
+    400048: cntrl_Clock_Grp
+    400050: cntrl_Clock_Grp 1
+    400052: cntrl_Clock_Grp 2
+    400054: cntrl_Clock_Grp 3
+    400056: cntrl_ClockPins_01
+    400058: cntrl_ClockPins_01 1
+    400060: cntrl_ClockPins_01_grp
+    400062: cntrl_ClockPins_01_grp 1
+    400064: cntrl_ClockPins_02
+    400066: cntrl_ClockPins_02 1
+    400068: cntrl_ClockPins_02_grp
+    400070: cntrl_ClockPins_02_grp 1
+    400072: cntrl_joint1
+    400074: cntrl_joint1_grp
+    400076: cntrl_joint2
+    400078: cntrl_joint2_grp
+    400080: cntrl_joint3
+    400082: cntrl_joint3_grp
+    400084: cntrl_Pellow_Jntgrp
+    400086: cntrl_SecondsHand
+    400088: cntrl_SecondsHand 1
+    400090: cntrl_SecondsHand_grp
+    400092: cntrl_SecondsHand_grp 1
+    400094: cntrl_Snooze
+    400096: cntrl_Snooze 1
+    400098: cntrl_Snooze_grp
+    400100: cntrl_Snooze_grp 1
+    400102: cntrl_SwitchOff
+    400104: cntrl_SwitchOff 1
+    400106: cntrl_SwitchOff_grp
+    400108: cntrl_SwitchOff_grp 1
+    400110: Cup
+    400112: Cup_L
+    400114: Cup_R
+    400116: DeformationSystem
+    400118: Elbow
+    400120: Elbow_L
+    400122: Elbow_R
+    400124: ElbowPart1_L
+    400126: ElbowPart1_R
+    400128: ElbowPart2_L
+    400130: ElbowPart2_R
+    400132: Eye
+    400134: Eye_L
+    400136: Eye_R
+    400138: EyeEnd
+    400140: EyeEnd_L
+    400142: EyeEnd_R
+    400144: Face_Grp
+    400146: FitSkeleton
+    400148: FootSideInner
+    400150: FootSideOuter
+    400152: Formal_Dress_Grp
+    400154: Formal_Jeans_Character_Grp
+    400156: Geometry
+    400158: Glass
+    400160: Glass 1
+    400162: Group1
+    400164: group5
+    400166: Hair
+    400168: Hands
+    400170: Head
+    400172: Head_M
+    400174: HeadEnd
+    400176: HeadEnd_M
+    400178: Heel
+    400180: Hip
+    400182: Hip_L
+    400184: Hip_L_poly
+    400186: Hip_R
+    400188: Hip_R_poly
+    400190: HipPart1_L
+    400192: HipPart1_R
+    400194: HipPart2_L
+    400196: HipPart2_R
+    400198: IndexFinger1
+    400200: IndexFinger1_L
+    400202: IndexFinger1_L_poly
+    400204: IndexFinger1_R
+    400206: IndexFinger1_R_poly
+    400208: IndexFinger2
+    400210: IndexFinger2_L
+    400212: IndexFinger2_R
+    400214: IndexFinger3
+    400216: IndexFinger3_L
+    400218: IndexFinger3_R
+    400220: IndexFinger4
+    400222: IndexFinger4_L
+    400224: IndexFinger4_R
+    400226: Jaw
+    400228: Jaw_M
+    400230: JawEnd
+    400232: JawEnd_M
+    400234: jnt_l_eye_brow01
+    400236: jnt_l_eye_brow02
+    400238: jnt_l_eye_brow03
+    400240: jnt_Lower_Teeth
+    400242: jnt_Lower_Teeth_end
+    400244: jnt_r_eye_brow01
+    400246: jnt_r_eye_brow02
+    400248: jnt_r_eye_brow03
+    400250: jnt_tung01
+    400252: jnt_tung04
+    400254: jnt_tung05
+    400256: jnt_tung06
+    400258: jnt_tung07
+    400260: jnt_Upper_Teeth
+    400262: jnt_Upper_Teeth_end
+    400264: joint1
+    400266: joint2
+    400268: joint3
+    400270: joint4
+    400272: Knee
+    400274: Knee_L
+    400276: Knee_R
+    400278: L_Eye
+    400280: Lower_Teeth
+    400282: Main
+    400284: Main_Face
+    400286: MeshGeometry
+    400288: MiddleFinger1
+    400290: MiddleFinger1_L
+    400292: MiddleFinger1_L_poly
+    400294: MiddleFinger1_R
+    400296: MiddleFinger1_R_poly
+    400298: MiddleFinger2
+    400300: MiddleFinger2_L
+    400302: MiddleFinger2_R
+    400304: MiddleFinger3
+    400306: MiddleFinger3_L
+    400308: MiddleFinger3_R
+    400310: MiddleFinger4
+    400312: MiddleFinger4_L
+    400314: MiddleFinger4_R
+    400316: Neck
+    400318: Neck_M
+    400320: Neck_M_poly
+    400322: NeckPart1_M
+    400324: NeckPart2_M
+    400326: Pellow
+    400328: Pellow_Jntgrp
+    400330: Pellow_Jntgrp 1
+    400332: PinkyFinger1
+    400334: PinkyFinger1_L
+    400336: PinkyFinger1_L_poly
+    400338: PinkyFinger1_R
+    400340: PinkyFinger1_R_poly
+    400342: PinkyFinger2
+    400344: PinkyFinger2_L
+    400346: PinkyFinger2_R
+    400348: PinkyFinger3
+    400350: PinkyFinger3_L
+    400352: PinkyFinger3_R
+    400354: PinkyFinger4
+    400356: PinkyFinger4_L
+    400358: PinkyFinger4_R
+    400360: R_Eye
+    400362: Regular_Jeans
+    400364: RingFinger1
+    400366: RingFinger1_L
+    400368: RingFinger1_L_poly
+    400370: RingFinger1_R
+    400372: RingFinger1_R_poly
+    400374: RingFinger2
+    400376: RingFinger2_L
+    400378: RingFinger2_R
+    400380: RingFinger3
+    400382: RingFinger3_L
+    400384: RingFinger3_R
+    400386: RingFinger4
+    400388: RingFinger4_L
+    400390: RingFinger4_R
+    400392: Root
+    400394: Root_M
+    400396: RootPart1_M
+    400398: RootPart2_M
+    400400: Scapula
+    400402: Scapula_L
+    400404: Scapula_R
+    400406: SecondsHand
+    400408: SecondsHand 1
+    400410: Shirt
+    400412: Shoulder
+    400414: Shoulder_L
+    400416: Shoulder_L_poly
+    400418: Shoulder_R
+    400420: Shoulder_R_poly
+    400422: ShoulderPart1_L
+    400424: ShoulderPart1_R
+    400426: ShoulderPart2_L
+    400428: ShoulderPart2_R
+    400430: Snooze
+    400432: Snooze 1
+    400434: Socks2
+    400436: Socks3
+    400438: Spine1
+    400440: Spine1_M
+    400442: Spine1_M_poly
+    400444: Spine1Part1_M
+    400446: Spine1Part2_M
+    400448: SwitchOff
+    400450: SwitchOff 1
+    400452: ThumbFinger1
+    400454: ThumbFinger1_L
+    400456: ThumbFinger1_R
+    400458: ThumbFinger2
+    400460: ThumbFinger2_L
+    400462: ThumbFinger2_L_poly
+    400464: ThumbFinger2_R
+    400466: ThumbFinger2_R_poly
+    400468: ThumbFinger3
+    400470: ThumbFinger3_L
+    400472: ThumbFinger3_R
+    400474: ThumbFinger4
+    400476: ThumbFinger4_L
+    400478: ThumbFinger4_R
+    400480: Toes
+    400482: Toes_L
+    400484: Toes_R
+    400486: ToesEnd
+    400488: ToesEnd_L
+    400490: ToesEnd_R
+    400492: Tongue
+    400494: transform1
+    400496: transform2
+    400498: transform3
+    400500: Upper_Teeth
+    400502: WakeUp1
+    400504: Wrist
+    400506: Wrist_L
+    400508: Wrist_R
+    2000000: CAM
+    2100000: Clock_MAT
+    2100002: ClockGlass_MAT
+    2100004: Bed_Cover
+    2100006: lambert1
+    2100008: Mashal_Night_Shirt
+    2100010: Hand_Diff3
+    2100012: Eye_Ball2
+    2100014: Body1
+    2100016: hair_Diff2
+    2100018: Mashal_Night_Pant
+    2100020: Mashal_shoe_Dress_White1
+    2100022: Clock_MAT1
+    2300000: AlarmHand
+    2300002: AlarmHand 1
+    2300004: ClockBody
+    2300006: ClockBody 1
+    2300008: ClockPins_01
+    2300010: ClockPins_01 1
+    2300012: ClockPins_02
+    2300014: ClockPins_02 1
+    2300016: Glass
+    2300018: Glass 1
+    2300020: Hip_L_poly
+    2300022: Hip_R_poly
+    2300024: IndexFinger1_L_poly
+    2300026: IndexFinger1_R_poly
+    2300028: MiddleFinger1_L_poly
+    2300030: MiddleFinger1_R_poly
+    2300032: Neck_M_poly
+    2300034: PinkyFinger1_L_poly
+    2300036: PinkyFinger1_R_poly
+    2300038: RingFinger1_L_poly
+    2300040: RingFinger1_R_poly
+    2300042: SecondsHand
+    2300044: SecondsHand 1
+    2300046: Shoulder_L_poly
+    2300048: Shoulder_R_poly
+    2300050: Snooze
+    2300052: Snooze 1
+    2300054: Spine1_M_poly
+    2300056: SwitchOff
+    2300058: SwitchOff 1
+    2300060: ThumbFinger2_L_poly
+    2300062: ThumbFinger2_R_poly
+    3300000: AlarmHand
+    3300002: AlarmHand 1
+    3300004: ClockBody
+    3300006: ClockBody 1
+    3300008: ClockPins_01
+    3300010: ClockPins_01 1
+    3300012: ClockPins_02
+    3300014: ClockPins_02 1
+    3300016: Glass
+    3300018: Glass 1
+    3300020: Hip_L_poly
+    3300022: Hip_R_poly
+    3300024: IndexFinger1_L_poly
+    3300026: IndexFinger1_R_poly
+    3300028: MiddleFinger1_L_poly
+    3300030: MiddleFinger1_R_poly
+    3300032: Neck_M_poly
+    3300034: PinkyFinger1_L_poly
+    3300036: PinkyFinger1_R_poly
+    3300038: RingFinger1_L_poly
+    3300040: RingFinger1_R_poly
+    3300042: SecondsHand
+    3300044: SecondsHand 1
+    3300046: Shoulder_L_poly
+    3300048: Shoulder_R_poly
+    3300050: Snooze
+    3300052: Snooze 1
+    3300054: Spine1_M_poly
+    3300056: SwitchOff
+    3300058: SwitchOff 1
+    3300060: ThumbFinger2_L_poly
+    3300062: ThumbFinger2_R_poly
+    4300000: SwitchOff
+    4300002: Snooze
+    4300004: ClockPins_01
+    4300006: ClockPins_02
+    4300008: AlarmHand
+    4300010: SecondsHand
+    4300012: Glass
+    4300014: ClockBody
+    4300016: Pellow
+    4300018: Hip_R_poly
+    4300020: MiddleFinger1_R_poly
+    4300022: ThumbFinger2_R_poly
+    4300024: IndexFinger1_R_poly
+    4300026: PinkyFinger1_R_poly
+    4300028: RingFinger1_R_poly
+    4300030: Shoulder_R_poly
+    4300032: Neck_M_poly
+    4300034: MiddleFinger1_L_poly
+    4300036: ThumbFinger2_L_poly
+    4300038: IndexFinger1_L_poly
+    4300040: PinkyFinger1_L_poly
+    4300042: RingFinger1_L_poly
+    4300044: Shoulder_L_poly
+    4300046: Spine1_M_poly
+    4300048: Hip_L_poly
+    4300050: Shirt
+    4300052: Buttons
+    4300054: Hands
+    4300056: L_Eye
+    4300058: R_Eye
+    4300060: Upper_Teeth
+    4300062: Tongue
+    4300064: Lower_Teeth
+    4300066: Hair
+    4300068: Main_Face
+    4300070: Regular_Jeans
+    4300072: Socks2
+    4300074: Socks3
+    4300076: SwitchOff
+    4300078: Snooze
+    4300080: ClockPins_01
+    4300082: ClockPins_02
+    4300084: AlarmHand
+    4300086: SecondsHand
+    4300088: Glass
+    4300090: ClockBody
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Buttons
+    13700002: Hair
+    13700004: Hands
+    13700006: L_Eye
+    13700008: Lower_Teeth
+    13700010: Main_Face
+    13700012: Pellow
+    13700014: R_Eye
+    13700016: Regular_Jeans
+    13700018: Shirt
+    13700020: Socks2
+    13700022: Socks3
+    13700024: Tongue
+    13700026: Upper_Teeth
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed_Cover
+    second: {fileID: 2100000, guid: cdc6a10fd774dee4cad6e8f1497bf6a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body1
+    second: {fileID: 2100000, guid: f366880297067f44fb8fb12ee7cc0d8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ClockGlass_MAT
+    second: {fileID: 2100000, guid: c2a1d932bba3db1458701d36c394ba52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clock_MAT
+    second: {fileID: 2100000, guid: b20ff6a97a7d44248947b0cf547b62e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clock_MAT1
+    second: {fileID: 2100000, guid: b20ff6a97a7d44248947b0cf547b62e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye_Ball2
+    second: {fileID: 2100000, guid: 61fd7485e9d79054e8563e1fc4a456c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hand_Diff3
+    second: {fileID: 2100000, guid: 3eb40ec579cd6ff489815e9e6504c5c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mashal_Night_Pant
+    second: {fileID: 2100000, guid: 9ed09ded066724f40943e2b8598bb0ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mashal_Night_Shirt
+    second: {fileID: 2100000, guid: a2ee14c086d64614680677b47c98bc8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mashal_shoe_Dress_White1
+    second: {fileID: 2100000, guid: 79ce18e8907b3e840a9972bb5137c185, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hair_Diff2
+    second: {fileID: 2100000, guid: fc624c6552dcd3b4cad3b9400aaf350f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: d70b768de9959ab44bb447d15e45ef2d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

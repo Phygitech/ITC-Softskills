@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: e98c2720ce0ad9644a2aad0638960198
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Button_01_Smt
+    100002: Button_02_Smt
+    100004: Button_03_Smt
+    100006: Clock_01_Smt
+    100008: Clock_points_geo
+    100010: Hook_Smt
+    100012: No_05_geo
+    100014: No_10_geo
+    100016: No_15_geo
+    100018: No_20_geo
+    100020: No_25_geo
+    100022: No_30_geo
+    100024: No_35_geo
+    100026: No_40_geo
+    100028: No_45_geo
+    100030: No_50_geo
+    100032: No_55_geo
+    100034: No_60_geo
+    100036: Numbers_Grp
+    100038: polySurface1
+    100040: //RootNode
+    100042: Watch_Body_Smt
+    100044: watch_glass
+    400000: Button_01_Smt
+    400002: Button_02_Smt
+    400004: Button_03_Smt
+    400006: Clock_01_Smt
+    400008: Clock_points_geo
+    400010: Hook_Smt
+    400012: No_05_geo
+    400014: No_10_geo
+    400016: No_15_geo
+    400018: No_20_geo
+    400020: No_25_geo
+    400022: No_30_geo
+    400024: No_35_geo
+    400026: No_40_geo
+    400028: No_45_geo
+    400030: No_50_geo
+    400032: No_55_geo
+    400034: No_60_geo
+    400036: Numbers_Grp
+    400038: polySurface1
+    400040: //RootNode
+    400042: Watch_Body_Smt
+    400044: watch_glass
+    2100000: red_lambert
+    2100002: white_steel
+    2100004: Glass_watch
+    2100006: black_lambert
+    2300000: Button_01_Smt
+    2300002: Button_02_Smt
+    2300004: Button_03_Smt
+    2300006: Clock_01_Smt
+    2300008: Clock_points_geo
+    2300010: Hook_Smt
+    2300012: No_05_geo
+    2300014: No_10_geo
+    2300016: No_15_geo
+    2300018: No_20_geo
+    2300020: No_25_geo
+    2300022: No_30_geo
+    2300024: No_35_geo
+    2300026: No_40_geo
+    2300028: No_45_geo
+    2300030: No_50_geo
+    2300032: No_55_geo
+    2300034: No_60_geo
+    2300036: polySurface1
+    2300038: watch_glass
+    3300000: Button_01_Smt
+    3300002: Button_02_Smt
+    3300004: Button_03_Smt
+    3300006: Clock_01_Smt
+    3300008: Clock_points_geo
+    3300010: Hook_Smt
+    3300012: No_05_geo
+    3300014: No_10_geo
+    3300016: No_15_geo
+    3300018: No_20_geo
+    3300020: No_25_geo
+    3300022: No_30_geo
+    3300024: No_35_geo
+    3300026: No_40_geo
+    3300028: No_45_geo
+    3300030: No_50_geo
+    3300032: No_55_geo
+    3300034: No_60_geo
+    3300036: polySurface1
+    3300038: watch_glass
+    4300000: Clock_01_Smt
+    4300002: Button_01_Smt
+    4300004: Button_02_Smt
+    4300006: Button_03_Smt
+    4300008: polySurface1
+    4300010: watch_glass
+    4300012: Clock_points_geo
+    4300014: Hook_Smt
+    4300016: No_55_geo
+    4300018: No_60_geo
+    4300020: No_05_geo
+    4300022: No_10_geo
+    4300024: No_15_geo
+    4300026: No_20_geo
+    4300028: No_25_geo
+    4300030: No_30_geo
+    4300032: No_35_geo
+    4300034: No_40_geo
+    4300036: No_45_geo
+    4300038: No_50_geo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

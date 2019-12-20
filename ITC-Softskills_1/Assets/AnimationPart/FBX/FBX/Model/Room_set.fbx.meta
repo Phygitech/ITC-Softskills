@@ -1,0 +1,1395 @@
+fileFormatVersion: 2
+guid: 10466f4c993aca147a66ff1890b2b669
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _Left_Shoe
+    100002: _Left_Shoe1
+    100004: _Right_Shoe
+    100006: _Right_Shoe1
+    100008: Accessories
+    100010: AlarmHand
+    100012: Bands_Wrist_Band
+    100014: Bands_Wrist_Band 1
+    100016: Bands_Wrist_Band1
+    100018: Bands_Wrist_Band2
+    100020: Bed
+    100022: Bed_Cover1
+    100024: Bed_Set
+    100026: Belt_Grp
+    100028: Blanket
+    100030: Boot
+    100032: Boot1
+    100034: Boot_Grp
+    100036: Bracelet
+    100038: Braided_Belt
+    100040: Buclke_Belt
+    100042: Buttons
+    100044: Buttons 1
+    100046: Ceilling2
+    100048: Chair2
+    100050: Chair3
+    100052: Chair4
+    100054: Chair5
+    100056: Check_derss
+    100058: Chinese_Shirt1
+    100060: Clock_Grp
+    100062: ClockBody
+    100064: ClockPins_01
+    100066: ClockPins_02
+    100068: Cloths
+    100070: Cupboard1
+    100072: Cupboard2
+    100074: Curtin
+    100076: D_Frame
+    100078: D_Frame1
+    100080: Denim1
+    100082: Denim2
+    100084: Denim3
+    100086: Denim4
+    100088: Denim5
+    100090: Denim_Belt
+    100092: Denim_Grp
+    100094: Dinning_set
+    100096: Door
+    100098: Door 1
+    100100: Door1
+    100102: Dress_Bright
+    100104: Dress_Broad_stripes_Trouser
+    100106: Dress_Cargos_baggy
+    100108: Dress_Coller_Neck
+    100110: Dress_Goa_Print
+    100112: Dress_Low_waist_baggy1
+    100114: Dress_Normal_fit_Trouser1
+    100116: Dress_Plain_denim
+    100118: Dress_Regular_fit_solid_coloured
+    100120: Dress_Regular_Jeans
+    100122: Dress_Ripped_jeans
+    100124: Dress_round_neck
+    100126: Dress_Skinny_jeans1
+    100128: Dress_solid_coloured_Tshirt
+    100130: Dress_Ultra_Slim_Fit
+    100132: Dressing_table1
+    100134: Floor
+    100136: Floor_Tile
+    100138: Formal_Belt
+    100140: Formal_Belt_02
+    100142: Frame1
+    100144: Furnitures
+    100146: Glass
+    100148: Glass 1
+    100150: Glass_Door
+    100152: Goggles1
+    100154: Hanger
+    100156: Hanger1
+    100158: Hanger10
+    100160: Hanger11
+    100162: Hanger12
+    100164: Hanger13
+    100166: Hanger14
+    100168: Hanger15
+    100170: Hanger16
+    100172: Hanger17
+    100174: Hanger18
+    100176: Hanger2
+    100178: Hanger2 1
+    100180: Hanger3
+    100182: Hanger4
+    100184: Hanger5
+    100186: Hanger6
+    100188: Hanger7
+    100190: Hanger8
+    100192: Hanger9
+    100194: Hat
+    100196: L_Sandle
+    100198: L_Slipper
+    100200: Lamp
+    100202: Light
+    100204: Loafer
+    100206: Loafer1
+    100208: Loafer_grp
+    100210: Metal_Belt
+    100212: Muffler1
+    100214: Pant_grp
+    100216: pCube32
+    100218: pCube33
+    100220: pCylinder1
+    100222: Pellow
+    100224: Pendant
+    100226: Pendant_Grp
+    100228: Photo_Frame
+    100230: Photo_Frame1
+    100232: Pocket
+    100234: pPlane50
+    100236: Printed
+    100238: R_Sandle
+    100240: R_Slipper
+    100242: Ring
+    100244: Ring1
+    100246: Room
+    100248: //RootNode
+    100250: Sandal_Grp
+    100252: SecondsHand
+    100254: Shirt_Grp
+    100256: Shirt_Grp 1
+    100258: Shirt_Grp1
+    100260: Shirt_Grp2
+    100262: Shirt_Grp3
+    100264: Shirt_Grp4
+    100266: Shoe_Grp
+    100268: Shoe_Shoe1
+    100270: Shoe_Shoe4_Shoe_Leaf
+    100272: Shoes
+    100274: Slipper1
+    100276: Snooze
+    100278: Socks_Drawer
+    100280: SocksPair_01
+    100282: SocksPair_02
+    100284: SocksPair_03
+    100286: SocksPair_04
+    100288: SocksPair_05
+    100290: SocksPair_Grp
+    100292: Sports_shoe
+    100294: SwitchOff
+    100296: T_Shirt
+    100298: T_Shirt1
+    100300: T_Shirt2
+    100302: T_Shirt3
+    100304: T_Shirt4
+    100306: T_Sht_Grp
+    100308: table
+    100310: Table1
+    100312: Towel
+    100314: Towels
+    100316: Towels1
+    100318: Trouser1
+    100320: Trouser2
+    100322: Trouser3
+    100324: Trouser4
+    100326: Trouser5
+    100328: Trouser_Grp
+    100330: Tv
+    100332: Wall2
+    100334: War_door
+    100336: War_door1
+    100338: War_door2
+    100340: War_door7
+    100342: War_Drawer1
+    100344: War_Drawer2
+    100346: War_Drawer3
+    100348: War_Drawer4
+    100350: War_Drawer5
+    100352: War_Drawer6
+    100354: War_Interior
+    100356: War_Pipe
+    100358: War_Pipe1
+    100360: War_Pipe2
+    100362: War_Pipe3
+    100364: War_Pipe4
+    100366: War_Pipe5
+    100368: War_Pipe6
+    100370: War_Pipe7
+    100372: War_Pipe_Grp
+    100374: Wardroab
+    100376: watch_Glass
+    100378: watch_Glass 1
+    100380: watch_Hook
+    100382: watch_Hook 1
+    100384: watch_Hour
+    100386: watch_Hour 1
+    100388: watch_Minut
+    100390: watch_Minut 1
+    100392: watch_Niddle
+    100394: watch_Niddle 1
+    100396: watch_Sec
+    100398: watch_Sec 1
+    100400: watch_Watch
+    100402: watch_Watch 1
+    100404: watch_Wrist_Watch
+    100406: watch_Wrist_Watch1
+    100408: Window1
+    100410: Light_top
+    100412: Mirror1
+    400000: _Left_Shoe
+    400002: _Left_Shoe1
+    400004: _Right_Shoe
+    400006: _Right_Shoe1
+    400008: Accessories
+    400010: AlarmHand
+    400012: Bands_Wrist_Band
+    400014: Bands_Wrist_Band 1
+    400016: Bands_Wrist_Band1
+    400018: Bands_Wrist_Band2
+    400020: Bed
+    400022: Bed_Cover1
+    400024: Bed_Set
+    400026: Belt_Grp
+    400028: Blanket
+    400030: Boot
+    400032: Boot1
+    400034: Boot_Grp
+    400036: Bracelet
+    400038: Braided_Belt
+    400040: Buclke_Belt
+    400042: Buttons
+    400044: Buttons 1
+    400046: Ceilling2
+    400048: Chair2
+    400050: Chair3
+    400052: Chair4
+    400054: Chair5
+    400056: Check_derss
+    400058: Chinese_Shirt1
+    400060: Clock_Grp
+    400062: ClockBody
+    400064: ClockPins_01
+    400066: ClockPins_02
+    400068: Cloths
+    400070: Cupboard1
+    400072: Cupboard2
+    400074: Curtin
+    400076: D_Frame
+    400078: D_Frame1
+    400080: Denim1
+    400082: Denim2
+    400084: Denim3
+    400086: Denim4
+    400088: Denim5
+    400090: Denim_Belt
+    400092: Denim_Grp
+    400094: Dinning_set
+    400096: Door
+    400098: Door 1
+    400100: Door1
+    400102: Dress_Bright
+    400104: Dress_Broad_stripes_Trouser
+    400106: Dress_Cargos_baggy
+    400108: Dress_Coller_Neck
+    400110: Dress_Goa_Print
+    400112: Dress_Low_waist_baggy1
+    400114: Dress_Normal_fit_Trouser1
+    400116: Dress_Plain_denim
+    400118: Dress_Regular_fit_solid_coloured
+    400120: Dress_Regular_Jeans
+    400122: Dress_Ripped_jeans
+    400124: Dress_round_neck
+    400126: Dress_Skinny_jeans1
+    400128: Dress_solid_coloured_Tshirt
+    400130: Dress_Ultra_Slim_Fit
+    400132: Dressing_table1
+    400134: Floor
+    400136: Floor_Tile
+    400138: Formal_Belt
+    400140: Formal_Belt_02
+    400142: Frame1
+    400144: Furnitures
+    400146: Glass
+    400148: Glass 1
+    400150: Glass_Door
+    400152: Goggles1
+    400154: Hanger
+    400156: Hanger1
+    400158: Hanger10
+    400160: Hanger11
+    400162: Hanger12
+    400164: Hanger13
+    400166: Hanger14
+    400168: Hanger15
+    400170: Hanger16
+    400172: Hanger17
+    400174: Hanger18
+    400176: Hanger2
+    400178: Hanger2 1
+    400180: Hanger3
+    400182: Hanger4
+    400184: Hanger5
+    400186: Hanger6
+    400188: Hanger7
+    400190: Hanger8
+    400192: Hanger9
+    400194: Hat
+    400196: L_Sandle
+    400198: L_Slipper
+    400200: Lamp
+    400202: Light
+    400204: Loafer
+    400206: Loafer1
+    400208: Loafer_grp
+    400210: Metal_Belt
+    400212: Muffler1
+    400214: Pant_grp
+    400216: pCube32
+    400218: pCube33
+    400220: pCylinder1
+    400222: Pellow
+    400224: Pendant
+    400226: Pendant_Grp
+    400228: Photo_Frame
+    400230: Photo_Frame1
+    400232: Pocket
+    400234: pPlane50
+    400236: Printed
+    400238: R_Sandle
+    400240: R_Slipper
+    400242: Ring
+    400244: Ring1
+    400246: Room
+    400248: //RootNode
+    400250: Sandal_Grp
+    400252: SecondsHand
+    400254: Shirt_Grp
+    400256: Shirt_Grp 1
+    400258: Shirt_Grp1
+    400260: Shirt_Grp2
+    400262: Shirt_Grp3
+    400264: Shirt_Grp4
+    400266: Shoe_Grp
+    400268: Shoe_Shoe1
+    400270: Shoe_Shoe4_Shoe_Leaf
+    400272: Shoes
+    400274: Slipper1
+    400276: Snooze
+    400278: Socks_Drawer
+    400280: SocksPair_01
+    400282: SocksPair_02
+    400284: SocksPair_03
+    400286: SocksPair_04
+    400288: SocksPair_05
+    400290: SocksPair_Grp
+    400292: Sports_shoe
+    400294: SwitchOff
+    400296: T_Shirt
+    400298: T_Shirt1
+    400300: T_Shirt2
+    400302: T_Shirt3
+    400304: T_Shirt4
+    400306: T_Sht_Grp
+    400308: table
+    400310: Table1
+    400312: Towel
+    400314: Towels
+    400316: Towels1
+    400318: Trouser1
+    400320: Trouser2
+    400322: Trouser3
+    400324: Trouser4
+    400326: Trouser5
+    400328: Trouser_Grp
+    400330: Tv
+    400332: Wall2
+    400334: War_door
+    400336: War_door1
+    400338: War_door2
+    400340: War_door7
+    400342: War_Drawer1
+    400344: War_Drawer2
+    400346: War_Drawer3
+    400348: War_Drawer4
+    400350: War_Drawer5
+    400352: War_Drawer6
+    400354: War_Interior
+    400356: War_Pipe
+    400358: War_Pipe1
+    400360: War_Pipe2
+    400362: War_Pipe3
+    400364: War_Pipe4
+    400366: War_Pipe5
+    400368: War_Pipe6
+    400370: War_Pipe7
+    400372: War_Pipe_Grp
+    400374: Wardroab
+    400376: watch_Glass
+    400378: watch_Glass 1
+    400380: watch_Hook
+    400382: watch_Hook 1
+    400384: watch_Hour
+    400386: watch_Hour 1
+    400388: watch_Minut
+    400390: watch_Minut 1
+    400392: watch_Niddle
+    400394: watch_Niddle 1
+    400396: watch_Sec
+    400398: watch_Sec 1
+    400400: watch_Watch
+    400402: watch_Watch 1
+    400404: watch_Wrist_Watch
+    400406: watch_Wrist_Watch1
+    400408: Window1
+    400410: Light_top
+    400412: Mirror1
+    2100000: Clock_MAT
+    2100002: ClockGlass_MAT
+    2100004: Muffler_Frill
+    2100006: Muffler
+    2100008: Bracelet1
+    2100010: Shoe2
+    2100012: Hat_Tex1
+    2100014: Pendant1
+    2100016: Hat_Specs_Glass
+    2100018: Hat_Specs
+    2100020: watch_Metal
+    2100022: watch_Leather
+    2100024: Watch_glass
+    2100026: Bands
+    2100028: Final_Belt
+    2100030: Belts_Final_M_Lion_Handle
+    2100032: Metal_Belt1
+    2100034: Belt
+    2100036: Buckle
+    2100038: Buckle1
+    2100040: blinn6
+    2100042: Towels_MAT
+    2100044: Sandal
+    2100046: Slipper
+    2100048: Formal_Shoe
+    2100050: Lays_Clips
+    2100052: Formal_Shoe_02
+    2100054: Boots_MAT
+    2100056: BootsMetal_MAT
+    2100058: Loafer_MAT
+    2100060: LoaferMetal_MAT
+    2100062: Watch_leather_02
+    2100064: Bed_Cover
+    2100066: Cloth
+    2100068: Metal_legs
+    2100070: Cupboard
+    2100072: Table
+    2100074: Dressing_table
+    2100076: Bed1
+    2100078: Tv_Vass
+    2100080: Frame
+    2100082: Dinnig_table
+    2100084: wardroab
+    2100086: wardroab_Wood
+    2100088: Mirror
+    2100090: Glass_Door1
+    2100092: CH_Button
+    2100094: Chineese_Shirt
+    2100096: lambert1
+    2100098: Shirt_blue
+    2100100: Check_Shirt
+    2100102: Printed_shirt
+    2100104: Shirt_White
+    2100106: Jeans_Dress_Normal_Fit_Trouser
+    2100108: JeansBelt_01
+    2100110: Jeans_Dress_Folded_trousers
+    2100112: Jeans_Dress_Regular_fit_Jeans
+    2100114: Jeans_Dress_Folded_Jeans
+    2100116: Dress_Folded_Jeans
+    2100118: Fat_Man_Tshirt2
+    2100120: Dress_Solid_plane_Shirt
+    2100122: Dress_Fold_Tshirt
+    2100124: SocksDesign01_MAT
+    2100126: SocksDesign02_MAT
+    2100128: SocksDesign03_MAT
+    2100130: SocksDesign04_MAT
+    2100132: SocksDesign05_MAT
+    2100134: Floor1
+    2100136: Wall1
+    2100138: Wall_2
+    2100140: Frame_window
+    2100142: Light1
+    2100144: Ceilling1
+    2300000: _Left_Shoe
+    2300002: _Left_Shoe1
+    2300004: _Right_Shoe
+    2300006: _Right_Shoe1
+    2300008: AlarmHand
+    2300010: Bands_Wrist_Band 1
+    2300012: Bands_Wrist_Band1
+    2300014: Bands_Wrist_Band2
+    2300016: Bed
+    2300018: Bed_Cover1
+    2300020: Blanket
+    2300022: Boot
+    2300024: Boot1
+    2300026: Bracelet
+    2300028: Braided_Belt
+    2300030: Buclke_Belt
+    2300032: Buttons
+    2300034: Buttons 1
+    2300036: Ceilling2
+    2300038: Chair2
+    2300040: Chair3
+    2300042: Chair4
+    2300044: Chair5
+    2300046: Check_derss
+    2300048: Chinese_Shirt1
+    2300050: ClockBody
+    2300052: ClockPins_01
+    2300054: ClockPins_02
+    2300056: Cupboard1
+    2300058: Cupboard2
+    2300060: D_Frame
+    2300062: D_Frame1
+    2300064: Denim_Belt
+    2300066: Door 1
+    2300068: Door1
+    2300070: Dress_Bright
+    2300072: Dress_Broad_stripes_Trouser
+    2300074: Dress_Cargos_baggy
+    2300076: Dress_Coller_Neck
+    2300078: Dress_Goa_Print
+    2300080: Dress_Low_waist_baggy1
+    2300082: Dress_Normal_fit_Trouser1
+    2300084: Dress_Plain_denim
+    2300086: Dress_Regular_fit_solid_coloured
+    2300088: Dress_Regular_Jeans
+    2300090: Dress_Ripped_jeans
+    2300092: Dress_round_neck
+    2300094: Dress_Skinny_jeans1
+    2300096: Dress_solid_coloured_Tshirt
+    2300098: Dress_Ultra_Slim_Fit
+    2300100: Dressing_table1
+    2300102: Floor
+    2300104: Floor_Tile
+    2300106: Formal_Belt
+    2300108: Formal_Belt_02
+    2300110: Frame1
+    2300112: Glass
+    2300114: Glass 1
+    2300116: Glass_Door
+    2300118: Goggles1
+    2300120: Hanger
+    2300122: Hanger1
+    2300124: Hanger10
+    2300126: Hanger11
+    2300128: Hanger12
+    2300130: Hanger13
+    2300132: Hanger14
+    2300134: Hanger15
+    2300136: Hanger16
+    2300138: Hanger17
+    2300140: Hanger18
+    2300142: Hanger2
+    2300144: Hanger2 1
+    2300146: Hanger3
+    2300148: Hanger4
+    2300150: Hanger5
+    2300152: Hanger6
+    2300154: Hanger7
+    2300156: Hanger8
+    2300158: Hanger9
+    2300160: Hat
+    2300162: L_Sandle
+    2300164: L_Slipper
+    2300166: Light
+    2300168: Loafer
+    2300170: Loafer1
+    2300172: Metal_Belt
+    2300174: Muffler1
+    2300176: pCube32
+    2300178: pCube33
+    2300180: pCylinder1
+    2300182: Pellow
+    2300184: Pendant
+    2300186: Photo_Frame
+    2300188: Photo_Frame1
+    2300190: Pocket
+    2300192: pPlane50
+    2300194: Printed
+    2300196: R_Sandle
+    2300198: R_Slipper
+    2300200: Ring
+    2300202: Ring1
+    2300204: SecondsHand
+    2300206: Shoe_Shoe1
+    2300208: Shoe_Shoe4_Shoe_Leaf
+    2300210: Snooze
+    2300212: SocksPair_01
+    2300214: SocksPair_02
+    2300216: SocksPair_03
+    2300218: SocksPair_04
+    2300220: SocksPair_05
+    2300222: SwitchOff
+    2300224: table
+    2300226: Table1
+    2300228: Towels
+    2300230: Towels1
+    2300232: Tv
+    2300234: Wall2
+    2300236: War_door
+    2300238: War_door1
+    2300240: War_door2
+    2300242: War_door7
+    2300244: War_Drawer1
+    2300246: War_Drawer2
+    2300248: War_Drawer3
+    2300250: War_Drawer4
+    2300252: War_Drawer5
+    2300254: War_Drawer6
+    2300256: War_Interior
+    2300258: War_Pipe
+    2300260: War_Pipe1
+    2300262: War_Pipe2
+    2300264: War_Pipe3
+    2300266: War_Pipe4
+    2300268: War_Pipe5
+    2300270: War_Pipe6
+    2300272: War_Pipe7
+    2300274: watch_Glass
+    2300276: watch_Glass 1
+    2300278: watch_Hook
+    2300280: watch_Hook 1
+    2300282: watch_Hour
+    2300284: watch_Hour 1
+    2300286: watch_Minut
+    2300288: watch_Minut 1
+    2300290: watch_Sec
+    2300292: watch_Sec 1
+    2300294: watch_Watch
+    2300296: watch_Watch 1
+    2300298: Light_top
+    2300300: Mirror1
+    3300000: _Left_Shoe
+    3300002: _Left_Shoe1
+    3300004: _Right_Shoe
+    3300006: _Right_Shoe1
+    3300008: AlarmHand
+    3300010: Bands_Wrist_Band 1
+    3300012: Bands_Wrist_Band1
+    3300014: Bands_Wrist_Band2
+    3300016: Bed
+    3300018: Bed_Cover1
+    3300020: Blanket
+    3300022: Boot
+    3300024: Boot1
+    3300026: Bracelet
+    3300028: Braided_Belt
+    3300030: Buclke_Belt
+    3300032: Buttons
+    3300034: Buttons 1
+    3300036: Ceilling2
+    3300038: Chair2
+    3300040: Chair3
+    3300042: Chair4
+    3300044: Chair5
+    3300046: Check_derss
+    3300048: Chinese_Shirt1
+    3300050: ClockBody
+    3300052: ClockPins_01
+    3300054: ClockPins_02
+    3300056: Cupboard1
+    3300058: Cupboard2
+    3300060: D_Frame
+    3300062: D_Frame1
+    3300064: Denim_Belt
+    3300066: Door 1
+    3300068: Door1
+    3300070: Dress_Bright
+    3300072: Dress_Broad_stripes_Trouser
+    3300074: Dress_Cargos_baggy
+    3300076: Dress_Coller_Neck
+    3300078: Dress_Goa_Print
+    3300080: Dress_Low_waist_baggy1
+    3300082: Dress_Normal_fit_Trouser1
+    3300084: Dress_Plain_denim
+    3300086: Dress_Regular_fit_solid_coloured
+    3300088: Dress_Regular_Jeans
+    3300090: Dress_Ripped_jeans
+    3300092: Dress_round_neck
+    3300094: Dress_Skinny_jeans1
+    3300096: Dress_solid_coloured_Tshirt
+    3300098: Dress_Ultra_Slim_Fit
+    3300100: Dressing_table1
+    3300102: Floor
+    3300104: Floor_Tile
+    3300106: Formal_Belt
+    3300108: Formal_Belt_02
+    3300110: Frame1
+    3300112: Glass
+    3300114: Glass 1
+    3300116: Glass_Door
+    3300118: Goggles1
+    3300120: Hanger
+    3300122: Hanger1
+    3300124: Hanger10
+    3300126: Hanger11
+    3300128: Hanger12
+    3300130: Hanger13
+    3300132: Hanger14
+    3300134: Hanger15
+    3300136: Hanger16
+    3300138: Hanger17
+    3300140: Hanger18
+    3300142: Hanger2
+    3300144: Hanger2 1
+    3300146: Hanger3
+    3300148: Hanger4
+    3300150: Hanger5
+    3300152: Hanger6
+    3300154: Hanger7
+    3300156: Hanger8
+    3300158: Hanger9
+    3300160: Hat
+    3300162: L_Sandle
+    3300164: L_Slipper
+    3300166: Light
+    3300168: Loafer
+    3300170: Loafer1
+    3300172: Metal_Belt
+    3300174: Muffler1
+    3300176: pCube32
+    3300178: pCube33
+    3300180: pCylinder1
+    3300182: Pellow
+    3300184: Pendant
+    3300186: Photo_Frame
+    3300188: Photo_Frame1
+    3300190: Pocket
+    3300192: pPlane50
+    3300194: Printed
+    3300196: R_Sandle
+    3300198: R_Slipper
+    3300200: Ring
+    3300202: Ring1
+    3300204: SecondsHand
+    3300206: Shoe_Shoe1
+    3300208: Shoe_Shoe4_Shoe_Leaf
+    3300210: Snooze
+    3300212: SocksPair_01
+    3300214: SocksPair_02
+    3300216: SocksPair_03
+    3300218: SocksPair_04
+    3300220: SocksPair_05
+    3300222: SwitchOff
+    3300224: table
+    3300226: Table1
+    3300228: Towels
+    3300230: Towels1
+    3300232: Tv
+    3300234: Wall2
+    3300236: War_door
+    3300238: War_door1
+    3300240: War_door2
+    3300242: War_door7
+    3300244: War_Drawer1
+    3300246: War_Drawer2
+    3300248: War_Drawer3
+    3300250: War_Drawer4
+    3300252: War_Drawer5
+    3300254: War_Drawer6
+    3300256: War_Interior
+    3300258: War_Pipe
+    3300260: War_Pipe1
+    3300262: War_Pipe2
+    3300264: War_Pipe3
+    3300266: War_Pipe4
+    3300268: War_Pipe5
+    3300270: War_Pipe6
+    3300272: War_Pipe7
+    3300274: watch_Glass
+    3300276: watch_Glass 1
+    3300278: watch_Hook
+    3300280: watch_Hook 1
+    3300282: watch_Hour
+    3300284: watch_Hour 1
+    3300286: watch_Minut
+    3300288: watch_Minut 1
+    3300290: watch_Sec
+    3300292: watch_Sec 1
+    3300294: watch_Watch
+    3300296: watch_Watch 1
+    3300298: Light_top
+    3300300: Mirror1
+    4300000: SecondsHand
+    4300002: Snooze
+    4300004: SwitchOff
+    4300006: AlarmHand
+    4300008: ClockPins_02
+    4300010: ClockPins_01
+    4300012: Glass
+    4300014: ClockBody
+    4300016: Muffler1
+    4300018: Bracelet
+    4300020: Shoe_Shoe1
+    4300022: Shoe_Shoe4_Shoe_Leaf
+    4300024: Hat
+    4300026: Ring
+    4300028: Pendant
+    4300030: Ring1
+    4300032: Goggles1
+    4300034: watch_Watch
+    4300036: watch_Glass
+    4300038: watch_Sec
+    4300040: watch_Minut
+    4300042: watch_Hour
+    4300044: watch_Hook
+    4300046: Bands_Wrist_Band2
+    4300048: Bands_Wrist_Band
+    4300050: Bands_Wrist_Band1
+    4300052: Buclke_Belt
+    4300054: Metal_Belt
+    4300056: Braided_Belt
+    4300058: Formal_Belt
+    4300060: Denim_Belt
+    4300062: Formal_Belt_02
+    4300064: Towels1
+    4300066: Towels
+    4300068: L_Sandle
+    4300070: R_Sandle
+    4300072: L_Slipper
+    4300074: R_Slipper
+    4300076: _Left_Shoe
+    4300078: _Right_Shoe
+    4300080: _Left_Shoe1
+    4300082: _Right_Shoe1
+    4300084: Boot1
+    4300086: Boot
+    4300088: Loafer
+    4300090: Loafer1
+    4300092: watch_Watch
+    4300094: watch_Glass
+    4300096: watch_Sec
+    4300098: watch_Minut
+    4300100: watch_Hour
+    4300102: watch_Hook
+    4300104: Bed_Cover1
+    4300106: Pellow
+    4300108: Blanket
+    4300110: Cupboard1
+    4300112: Cupboard2
+    4300114: Table1
+    4300116: Dressing_table1
+    4300118: Bed
+    4300120: pCube32
+    4300122: pCube33
+    4300124: pCylinder1
+    4300126: Photo_Frame
+    4300128: Photo_Frame1
+    4300130: Tv
+    4300132: table
+    4300134: Chair2
+    4300136: Chair3
+    4300138: Chair4
+    4300140: Chair5
+    4300142: War_door1
+    4300144: War_door2
+    4300146: pPlane50
+    4300148: War_door
+    4300150: War_door7
+    4300152: War_Interior
+    4300154: War_Drawer5
+    4300156: War_Drawer1
+    4300158: War_Drawer4
+    4300160: War_Drawer3
+    4300162: War_Drawer2
+    4300164: Glass_Door
+    4300166: War_Pipe
+    4300168: War_Pipe1
+    4300170: War_Pipe2
+    4300172: War_Pipe3
+    4300174: War_Pipe4
+    4300176: War_Pipe5
+    4300178: War_Pipe6
+    4300180: War_Pipe7
+    4300182: Chinese_Shirt1
+    4300184: Hanger3
+    4300186: Buttons
+    4300188: Hanger2
+    4300190: Hanger1
+    4300192: Check_derss
+    4300194: Hanger
+    4300196: Printed
+    4300198: Buttons
+    4300200: Hanger2
+    4300202: Dress_Normal_fit_Trouser1
+    4300204: Hanger14
+    4300206: Hanger12
+    4300208: Dress_Ultra_Slim_Fit
+    4300210: Hanger11
+    4300212: Dress_Cargos_baggy
+    4300214: Hanger10
+    4300216: Dress_Broad_stripes_Trouser
+    4300218: Hanger4
+    4300220: Dress_Regular_fit_solid_coloured
+    4300222: Hanger13
+    4300224: Dress_Regular_Jeans
+    4300226: Dress_Ripped_jeans
+    4300228: Hanger15
+    4300230: Hanger16
+    4300232: Dress_Plain_denim
+    4300234: Hanger17
+    4300236: Dress_Low_waist_baggy1
+    4300238: Hanger18
+    4300240: Dress_Skinny_jeans1
+    4300242: Hanger5
+    4300244: Pocket
+    4300246: Dress_solid_coloured_Tshirt
+    4300248: Hanger6
+    4300250: Dress_Coller_Neck
+    4300252: Hanger7
+    4300254: Dress_round_neck
+    4300256: Dress_Bright
+    4300258: Hanger8
+    4300260: Hanger9
+    4300262: Dress_Goa_Print
+    4300264: War_Drawer6
+    4300266: SocksPair_01
+    4300268: SocksPair_02
+    4300270: SocksPair_03
+    4300272: SocksPair_04
+    4300274: SocksPair_05
+    4300276: Floor_Tile
+    4300278: Wall2
+    4300280: Frame1
+    4300282: Glass
+    4300284: Light
+    4300286: Floor
+    4300288: Door
+    4300290: D_Frame
+    4300292: Door1
+    4300294: D_Frame1
+    4300296: Ceilling2
+    4300298: Mirror1
+    4300300: Light_top
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bands
+    second: {fileID: 2100000, guid: ce79dce19d26ea14585817642d59f596, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed1
+    second: {fileID: 2100000, guid: 61fa7f5fa7f220d4195c4f2ca1543e3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed_Cover
+    second: {fileID: 2100000, guid: cdc6a10fd774dee4cad6e8f1497bf6a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Belt
+    second: {fileID: 2100000, guid: d1c84d4c66c6e544ca54c295f904bbda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Belts_Final_M_Lion_Handle
+    second: {fileID: 2100000, guid: e1f09145006b5bc49bf7536eb0fc4172, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BootsMetal_MAT
+    second: {fileID: 2100000, guid: 8614df4cee899044383939c524b31775, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boots_MAT
+    second: {fileID: 2100000, guid: 17fee5efa9a740045b6bcfbaf6d093ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bracelet1
+    second: {fileID: 2100000, guid: 164541cd98425ad42accc9f1d2786e19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buckle
+    second: {fileID: 2100000, guid: af18dd72a909fc04c953cfd1f301c245, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buckle1
+    second: {fileID: 2100000, guid: af18dd72a909fc04c953cfd1f301c245, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CH_Button
+    second: {fileID: 2100000, guid: 161c3308a3571634e8045e5119932d5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceilling1
+    second: {fileID: 2100000, guid: fa88826c8f59dda4a8ba05153e9dfa81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Check_Shirt
+    second: {fileID: 2100000, guid: c5810acf5ddf1b94cb27cdfa9ee6762a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chineese_Shirt
+    second: {fileID: 2100000, guid: dfe13fcd63cfe6441b19d1a5768bf03f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ClockGlass_MAT
+    second: {fileID: 2100000, guid: c2a1d932bba3db1458701d36c394ba52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clock_MAT
+    second: {fileID: 2100000, guid: b20ff6a97a7d44248947b0cf547b62e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cloth
+    second: {fileID: 2100000, guid: dce1071ef7a27e544900055afdbfae6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cupboard
+    second: {fileID: 2100000, guid: dc9392f2b2984c548ad895661c191b77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dinnig_table
+    second: {fileID: 2100000, guid: e889765d0a928344f8ea4777d41f3a3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dress_Fold_Tshirt
+    second: {fileID: 2100000, guid: 6fb2978ac54f005439105a7ca471463f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dress_Folded_Jeans
+    second: {fileID: 2100000, guid: f18c7e513fa4ea54d811851f7b905fc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dress_Solid_plane_Shirt
+    second: {fileID: 2100000, guid: 9ce1d4de2f2c698458ca4a0dad3cd702, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dressing_table
+    second: {fileID: 2100000, guid: 1a44ab0c46a415146ad35dff9029f3d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fat_Man_Tshirt2
+    second: {fileID: 2100000, guid: 856ca5c7e5e4dbe46a287d5250a34e6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Final_Belt
+    second: {fileID: 2100000, guid: 470ed30e52c192c48b60aa2f74757731, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor1
+    second: {fileID: 2100000, guid: a18672c5e93ef7b43ad1bd5f5c739854, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Formal_Shoe
+    second: {fileID: 2100000, guid: ccb74e577d37e454aae59ff8032500ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Formal_Shoe_02
+    second: {fileID: 2100000, guid: a6e3bb19684f8d942a247e8590290ec9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frame
+    second: {fileID: 2100000, guid: dcf3a17a7735a5d4d8dde880b50119f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frame_window
+    second: {fileID: 2100000, guid: 50221683ce3b6b542b9bd9453a62efbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_Door1
+    second: {fileID: 2100000, guid: 09ed3f231792c9e40b335bedc445f810, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hat_Specs
+    second: {fileID: 2100000, guid: 3cbfe8affd281be4bb4601a35998f441, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hat_Specs_Glass
+    second: {fileID: 2100000, guid: 26503a60e3d9ada4fb5438495234a39f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hat_Tex1
+    second: {fileID: 2100000, guid: d909f9637a320654ebaecdb72aa048cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JeansBelt_01
+    second: {fileID: 2100000, guid: 861c9a64c1ef1cb46b08ea124bde5fe1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jeans_Dress_Folded_Jeans
+    second: {fileID: 2100000, guid: f18c7e513fa4ea54d811851f7b905fc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jeans_Dress_Folded_trousers
+    second: {fileID: 2100000, guid: 4281bb577505f8748b4744fa6a01450e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jeans_Dress_Normal_Fit_Trouser
+    second: {fileID: 2100000, guid: 761a2e649e92c6b4b8b927501d6cfcd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jeans_Dress_Regular_fit_Jeans
+    second: {fileID: 2100000, guid: ef5f3fd8408941f41855d457d254c81f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lays_Clips
+    second: {fileID: 2100000, guid: 2d3ba1390c3ec0f42a4d795479d2153d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light1
+    second: {fileID: 2100000, guid: d69e89b9faa9f8c48b495bddcb9152f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LoaferMetal_MAT
+    second: {fileID: 2100000, guid: bdc8708f82fbe07489db1f0c3f93645b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Loafer_MAT
+    second: {fileID: 2100000, guid: 110f5616dc0678148b50b3f39cab35f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Belt1
+    second: {fileID: 2100000, guid: 1e2b26818e2692f4a816233ae03eacf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_legs
+    second: {fileID: 2100000, guid: 750d7b208711a864397f772e37ba3abb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mirror
+    second: {fileID: 2100000, guid: 80a05533814cec84b8887555df46f25e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Muffler
+    second: {fileID: 2100000, guid: 0e69235bd34f0c94cb5f3a6cf61b3724, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Muffler_Frill
+    second: {fileID: 2100000, guid: 8d827e662716f1348ab17ca3ba6e459c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pendant1
+    second: {fileID: 2100000, guid: b906b48b823fbd84ca59a615219597a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Printed_shirt
+    second: {fileID: 2100000, guid: 42e84652925a8f047a72adaa1272ffca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sandal
+    second: {fileID: 2100000, guid: 957f0e69540d217428d46874140d1ed5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirt_White
+    second: {fileID: 2100000, guid: 9aa3b1e64b63a4045b23d7b23f54ea43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirt_blue
+    second: {fileID: 2100000, guid: 6cf7d33b65f911145a9d39259dcd7899, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoe2
+    second: {fileID: 2100000, guid: 2837f3b2a6a98a34493fa6cefcc36e60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Slipper
+    second: {fileID: 2100000, guid: cc003f0ca44c3f048a24ddd06731f0c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SocksDesign01_MAT
+    second: {fileID: 2100000, guid: eca4f8d7b8cf8a540a35bf585d2f488a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SocksDesign02_MAT
+    second: {fileID: 2100000, guid: c1f446dc71d965b438d4b50f81c3412c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SocksDesign03_MAT
+    second: {fileID: 2100000, guid: 68300aa990c90a844bb5477d815bfb66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SocksDesign04_MAT
+    second: {fileID: 2100000, guid: 1d68325f483d904428ea05c6933990bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SocksDesign05_MAT
+    second: {fileID: 2100000, guid: a95362b1fc39e0d43b2565df5908213c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table
+    second: {fileID: 2100000, guid: a5d1979365f01b2479b7065b1030e509, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Towels_MAT
+    second: {fileID: 2100000, guid: 4f3c8fb0334e20c41bc2c9429515e766, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tv_Vass
+    second: {fileID: 2100000, guid: 0cc17c916ee206744aad99cab09d163a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall1
+    second: {fileID: 2100000, guid: fb8f1d5c3b1094443bec064d74370e36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_2
+    second: {fileID: 2100000, guid: ef8ee7ee5280a5f489e35738d707bc13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Watch_glass
+    second: {fileID: 2100000, guid: 2d13ef0665ecc514381790af39f222d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Watch_leather_02
+    second: {fileID: 2100000, guid: 7be2db7c31161124e84efe28d7baef01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn10
+    second: {fileID: 2100000, guid: c95a6798507c3b64c915403ba7d0df9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn6
+    second: {fileID: 2100000, guid: b6bfb242298830c4f8b2e61b2463df47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: d70b768de9959ab44bb447d15e45ef2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wardroab
+    second: {fileID: 2100000, guid: e83fe8ace998b444883a8ac22eeb09b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wardroab_Wood
+    second: {fileID: 2100000, guid: e3eca7285377ae3479115f0a5a1280d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: watch_Leather
+    second: {fileID: 2100000, guid: e88447bcda48f974091cb9c46d99d575, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: watch_Metal
+    second: {fileID: 2100000, guid: 5f0dcf7b0aaccf4458db7c9bc9e063aa, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root><!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+	<data name="@_Chewing Gum_Mausi" xml:space="preserve">
+		<value />
+	</data>
+	<data name="@_Chi Chi_Mausi" xml:space="preserve">
+		<value />
+	</data>
+	<data name="@_Deo" xml:space="preserve">
+		<value />
+	</data>
+	<data name="@_Dont forget your water bottle" xml:space="preserve">
+		<value />
+	</data>
+	<data name="@_Gentlemen do not eat gutkha_Mausi" xml:space="preserve">
+		<value />
+	</data>
+	<data name="@_mausi_Shirt_hanging_out" xml:space="preserve">
+		<value />
+	</data>
+	<data name="@_NinjaMausi_intro" xml:space="preserve">
+		<value />
+	</data>
+	<data name="@_WakeUp" xml:space="preserve">
+		<value />
+	</data>
+	<data name="AppVO" xml:space="preserve">
+		<value>buesa ls dkSu dke ij igu tkus ds fy, mi;qä gS\</value>
+	</data>
+	<data name="ButtonIntroBg" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Btn_ActivityMenu" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Btn_No" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Btn_Quit" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Btn_RestartActivity" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Btn_Resume" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Btn_Yes" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Continue" xml:space="preserve">
+		<value>dUVhU;w</value>
+	</data>
+	<data name="C_ContinueProceed" xml:space="preserve">
+		<value>vkius ;g ysoy iwjk dj fy;k gSA vkxs c&lt;+us ds fy, dUVhU;w pquksA</value>
+	</data>
+	<data name="C_Inst_CheckNetworkConnection" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Inst_QuitMessage" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Inst_ServerError" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Timer" xml:space="preserve">
+		<value>le; </value>
+	</data>
+	<data name="C_TipIns" xml:space="preserve">
+		<value>dafVU;w djus  ds fy, fVIl pqusaA</value>
+	</data>
+	<data name="C_TryAgain1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_TryAgain2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_TryAgain3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_WellDone1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_WellDone2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_WellDone3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Choose_Language" xml:space="preserve">
+		<value />
+	</data>
+	<data name="ChoseVO" xml:space="preserve">
+		<value>vki dke ij igudj tkus ds fy, bu nks esa ls fdls pquksxs\</value>
+	</data>
+	<data name="Clapping_mausi" xml:space="preserve">
+		<value />
+	</data>
+	<data name="ClickMe" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Close" xml:space="preserve">
+		<value />
+	</data>
+	<data name="ContinueBtn" xml:space="preserve">
+		<value>dUVhU;w</value>
+	</data>
+	<data name="DragDropMsg" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Exit" xml:space="preserve">
+		<value />
+	</data>
+	<data name="ExitMsg" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Instruction" xml:space="preserve">
+		<value />
+	</data>
+	<data name="InternetPanel" xml:space="preserve">
+		<value />
+	</data>
+	<data name="IntroHeading1" xml:space="preserve">
+		<value>Dyhuyhusl  bl  usDLV  rks  x‚MfyusLl lcdks  mi;qä  LoPNrk  ges'kk  cukbZ  j[kuh   pkfg, </value>
+	</data>
+	<data name="IntroHeading2" xml:space="preserve">
+		<value>diM+s O;fä dks tsaVyesu cukrs gSa] blfy, vius diM+s  /;ku ls pquksA</value>
+	</data>
+	<data name="IntroImage1" xml:space="preserve">
+		<value>ilZuy  gkbthu  dk eryc vius 'kjhj dks LoPN  vkSj LoLF; j[kus ls gSA jkst cz'k djuk] nk&lt;+h ;k fc;MZ cukuk] ugkuk] fMvksMksjsaV yxkuk vkSj lkQ diM+s iguuk pkfg,  </value>
+	</data>
+	<data name="IntroImage2" xml:space="preserve">
+		<value>vkids cky vkidh 'kksHkk gksrs gSa vkSj vkids jax&amp;:i dks cuk ;k fcxkM+ ldrs gSaA
+ vkids cky cf&lt;+;k vkSj lknxh ls dVs gksus  pkfg, ;k fQj os ct dV gksa ftls fcYdqy Hkh esUVsusUl ugha pkfg, gksrh gSA 
+yacs colored cky] iq#"k twM+s vkSj pksfV;k¡] eksg‚d vkSj vkM+s&amp;frjNs gs;jdV vkfn  Hkys gh LVk;fy'k yxsa] ij dke djus dh txg ij ;s vPNs ugha ekus tkrs gSaA</value>
+	</data>
+	<data name="IntroImage3" xml:space="preserve">
+		<value>vki viuh  fc;MZ  ftl rjg ls esUVsu djrs gks mlls vkidh ilZuSfyVh ds ckjs esa dkQh dqN irk pyrk gSA Dyhu 'kso j[kuk lcls vPNk  yqd gksrk gS] ij lkQ&amp;lqFkjh ew¡N] ;k vPNs ls lth&amp;laojh nk&lt;+h] ;k ;gk¡ rd fd lkQ fn[kus okyh LVcy Hkh tsaVyesu yqd ds fy, vPNh ekuh tkrh gSaA
+QSalh ew¡Nsa tSls gSaMyckj vkSj ,UVhuk] vkSj vudVh&amp;fc[kjh nk&lt;+h dke djus dh txg ds fy, Bhd ugha gksrh gSaA</value>
+	</data>
+	<data name="IntroImage4" xml:space="preserve">
+		<value>,d fu;e ;kn dj yks] ftruk ljy mruk csgrjA v‚fQl ds diM+ksa esa Q‚eZy 'kVZ cgqr vPNh jgrh gSaA t:jh ugha fd ;s 'kVZ Qqy LyhOl  dh gksa] vki gkQ LyhOl  dh 'kVZ Hkh igu ldrs gksA ;s  LVªkbIl  ;k  psDl  okyh gks ldrh gSa] ij eksVh LVªkbIl] cM+s  psDl] fçaVsM ;k czkbV dylZ ugha iguuh pkfg,  </value>
+	</data>
+	<data name="IntroImage5" xml:space="preserve">
+		<value>,d fu;e ;kn dj yks] ftruk lknk mruk csgrjA v‚fQl ds diM+ksa esa Q‚eZy d‚yj okyh Vh&amp;'kVZ Hkh vPNh jgrh gSaA ;s Vh&amp;'kVZ Iysu dyj dh  gks ldrh gSa ;k i‚dsV ij dksbZ NksVk lk yksxks gks ldrk gSA mu ij dqN M‚V~l ;k LVªkbIl  Hkh gks ldrh gSa] ij vthcksxjhc fçaV] xzkfQDl vkSj ykmM jaxksa okyh xzkfQVh dke  ij  iguuk  allowed ugha  gS 
+;kn j[kks fd Vh&amp;'kVZ thUl vkSj LuhdlZ ds lkFk vPNh yxrh gS-'kVZ~l] VªkmtlZ ;k thUl nksuksa ds lkFk  isgsu ldrs gSa- VªkmtlZ ds lkFk Q‚eZy twrs vPNs yxrs gSa A</value>
+	</data>
+	<data name="IntroImage6" xml:space="preserve">
+		<value>Vªkmtj xgjs jax ds gksa rks csgrj gS] ij vki dksbZ gYdk jax Hkh igu ldrs gSaA xgjs jax dh 'kVZ ds lkFk gyds jax ds VªkmtlZ Q‚eZy yxrs gSaA Vªkmtj Q‚eZy gksus pkfg, &amp; dksbZ dStqvy d‚Vu Vªkmtj] dkxksZ ;k VªSd iSaV dke djus dh txg ij allowed ugha  gSa </value>
+	</data>
+	<data name="IntroImage7" xml:space="preserve">
+		<value>lkQ eksts vkSj twrs iguksA /;ku j[kks  fd eksts yacs gksa vkSj twrs Q‚eZy gksaA vkSj vxj vki LuhdlZ igurs gks]rks os flaiy gksus pkfg, 
+lSaMy] dhVkst] pIiy] fLyilZ vkSj cwV~l dke djus dh txg ij allowed ugha  gSa </value>
+	</data>
+	<data name="IntroSlide" xml:space="preserve">
+		<value>gSyks Vhe esEclZ] 
+bl   u;h  Vªsfuax  esa  vki  lcdk  Lokxr  gS 
+geus vkidh jkstejkZ dh ftanxh esa vkus okyh pqukSfr;k¡ pquh gSa vkSj ,d ,DlkbfVax xse Q‚esZV esa mrkjk  gSA 
+ge xzwfeax] c‚Mh  ySaXost] dE;qfuds'ku] VkbIl  v‚Q  dLVelZ vkfn ds ckjs esa ckr djsaxs vkSj gesa vk'kk gS fd bls iwjk djus  ds  ckn  vki  viuk  dke  vkSj  Hkh  csgrjhu  rjhds  ls  dj   ik,axs 
+lquk;k tk, rks ge Hkwy tkrs gSa]
+fl[kk;k tk, rks gesa ;kn jgrk gS
+'kkfey fd;k tk, rks ge lh[krs gSa
+rks [k़wc [ksyks vkSj [k़wc lh[kks!!</value>
+	</data>
+	<data name="L1_Inst_DragWithinTwoMin" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L1_Inst_Probs" xml:space="preserve">
+		<value>—i;k /;ku nsa fd uhps 15 dke fn[kk, x, gSa &amp; vkidks mUgsa çkFkfedrk ds Øe esa jsfVax nsuh gS fd vkids fopkj esa dkSulk dke vf/kd egRoiw.kZ gS vkSj dkSulk deA ;gk¡ vki vf/kdre 150 i‚baV Ldksj dj ldrs gSa vkSj dke dks 2 feuV ds vanj iwjk djuk gSA</value>
+	</data>
+	<data name="L2_Asso" xml:space="preserve">
+		<value>Accessories</value>
+	</data>
+	<data name="L2_Belt" xml:space="preserve">
+		<value>Belt</value>
+	</data>
+	<data name="L2_BrOst" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_CollorTees" xml:space="preserve">
+		<value>Collar tees</value>
+	</data>
+	<data name="L2_Denim" xml:space="preserve">
+		<value>Denim</value>
+	</data>
+	<data name="L2_Footwear" xml:space="preserve">
+		<value>Footwear</value>
+	</data>
+	<data name="L2_Inst_LikeAnyOf" xml:space="preserve">
+		<value>D;k vkidks buesa ls dksbZ ilan gS\</value>
+	</data>
+	<data name="L2_Inst_PickAny" xml:space="preserve">
+		<value>buesa ls dksbZ ,d pquksA</value>
+	</data>
+	<data name="L2_Inst_WhichAppropriate" xml:space="preserve">
+		<value>vkids fopkj esa dkSulk mi;qä gS\</value>
+	</data>
+	<data name="L2_Inst_WhichChoose" xml:space="preserve">
+		<value>vki buesa ls fdls pquksxs\</value>
+	</data>
+	<data name="L2_Inst_WhichSelect" xml:space="preserve">
+		<value>vki buesa ls fdls pquksxs\</value>
+	</data>
+	<data name="L2_NorTrouser" xml:space="preserve">
+		<value>Normal trouser</value>
+	</data>
+	<data name="L2_PlainDenim" xml:space="preserve">
+		<value>Plain denim</value>
+	</data>
+	<data name="L2_RegShirt" xml:space="preserve">
+		<value>Regular collar shirts</value>
+	</data>
+	<data name="L2_Shirt" xml:space="preserve">
+		<value>Shirts</value>
+	</data>
+	<data name="L2_Shoes" xml:space="preserve">
+		<value>Shoes</value>
+	</data>
+	<data name="L2_Socks" xml:space="preserve">
+		<value>Socks</value>
+	</data>
+	<data name="L2_Tees" xml:space="preserve">
+		<value>Tees</value>
+	</data>
+	<data name="L2_Trouser" xml:space="preserve">
+		<value>Trouser</value>
+	</data>
+	<data name="L3_Agnikanth" xml:space="preserve">
+		<value>Agnikanth
+</value>
+	</data>
+	<data name="L3_BodyJwell" xml:space="preserve">
+		<value>Body jewellery</value>
+	</data>
+	<data name="L3_Dhuandhar" xml:space="preserve">
+		<value>Dhuandhar
+</value>
+	</data>
+	<data name="L3_FacialHair" xml:space="preserve">
+		<value>Hair style</value>
+	</data>
+	<data name="L3_HairStyleLabel" xml:space="preserve">
+		<value>Hair style</value>
+	</data>
+	<data name="L3_Inst_CharInst" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Inst_ChooseChar" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Inst_DhuadharIntro" xml:space="preserve">
+		<value>Good morning, I’m Dhuandhar. I’m fit. I believe that how I present myself in my work life makes a lot of difference and therefore is extremely important.</value>
+	</data>
+	<data name="L3_Mashaal" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Nails" xml:space="preserve">
+		<value>Nails</value>
+	</data>
+	<data name="L3_SelectContinue" xml:space="preserve">
+		<value>vkxs c&lt;+us ds fy, dUVhU;w pquksA</value>
+	</data>
+	<data name="L3_SelectOpt" xml:space="preserve">
+		<value>bu v‚I'kUl esa ls os pqusa tks vkids vuqlkj lgh  v‚I'ku gSaA</value>
+	</data>
+	<data name="L4_Inst_ModuleComplete" xml:space="preserve">
+		<value>vkius ;g e‚Mîwy iwjk dj fy;k gSA esu esU;w ij ykSVus ds fy, vksds pqusaA</value>
+	</data>
+	<data name="Level1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Level2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Level3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Level4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="LookAroundMsg" xml:space="preserve">
+		<value />
+	</data>
+	<data name="M1L1_GameplayIntro" xml:space="preserve">
+		<value>"vc tc geus xzwfeax dh u‚yst revise dj yh gS]rks pyks ,d xse [ksydj ns[krs gSa fd vkt gesa tks i&lt;+k;k x;k gS mlesa ls geus fdruk le&gt;k gSA
+xse dks opqZvy fj,fyVh IysVQ‚eZ ij [ksyk tk,xk] ftlls vkidks vkids lkeus is'k fd, x, –';ksa esa iwjh rjg 'kkfey gksus dk ,glkl gksxkA
+gj –'; vkidh jkstejkZ dh xfrfof/k;ksa ls gS] vkSj vkidks lgh p;u djds i‚baV thrus gSa vkSj xse esa rsth ls vkxs c&lt;+uk gSA
+'kq: djus ls igys lHkh funsZ'kksa dks /;ku ls i&lt;+uk vkSj le&gt;uk u Hkwysa] D;ksafd xfrfof/k;ksa ds fy, lhfer le; feysxk vkSj vkidks fn, x, le; ds vanj gh dke iwjs djus gksaxs; blfy, dkmaVMkmu Vkbej ij Hkh utj j[kksA
+vkidks 'kq#vkr ls igys opqZvy fj,fyVh IysVQ‚eZ dh ,d Vªk;y djus dks feysxh] rkfd vki mldh lHkh fØ;kvksa ls ifjfpr gks tkvksA"</value>
+	</data>
+	<data name="mausi_dirty_hair" xml:space="preserve">
+		<value />
+	</data>
+	<data name="mausi_KEEP_FACE_CLEAN" xml:space="preserve">
+		<value />
+	</data>
+	<data name="mausi_PULL_YOU_SOCKS" xml:space="preserve">
+		<value />
+	</data>
+	<data name="mausi_well_fitted_watch" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Menu_Level1" xml:space="preserve">
+		<value>xzwfeax dh bEiksVsaZl </value>
+	</data>
+	<data name="MoveForwardMsg" xml:space="preserve">
+		<value />
+	</data>
+	<data name="MoveHighLightArea" xml:space="preserve">
+		<value>gkbykbV fd, gq, ,fj;k ds ikl tkvksA</value>
+	</data>
+	<data name="New Key6" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Objective" xml:space="preserve">
+		<value />
+	</data>
+	<data name="ObjectiveContent" xml:space="preserve">
+		<value />
+	</data>
+	<data name="OkBtn" xml:space="preserve">
+		<value>vksds</value>
+	</data>
+	<data name="Panel_ContinueBtn" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Probs" xml:space="preserve">
+		<value />
+	</data>
+	<data name="QuitBtn" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Score" xml:space="preserve">
+		<value>Ldksj</value>
+	</data>
+	<data name="SelectMsg" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Selectrightans" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Setup" xml:space="preserve">
+		<value />
+	</data>
+	<data name="SetupIntro" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Task_Completed" xml:space="preserve">
+		<value>vkius ;g ysoy iwjk dj fy;k gSA vkxs c&lt;+us ds fy, dUVhU;w pquksA</value>
+	</data>
+	<data name="Tips" xml:space="preserve">
+		<value>fVIl</value>
+	</data>
+	<data name="Tips_1" xml:space="preserve">
+		<value>fVi 1</value>
+	</data>
+	<data name="Tips_2" xml:space="preserve">
+		<value>fVi 2</value>
+	</data>
+	<data name="Tips_3" xml:space="preserve">
+		<value>fVi 3</value>
+	</data>
+	<data name="Tips_4" xml:space="preserve">
+		<value>fVi 4</value>
+	</data>
+	<data name="Title" xml:space="preserve">
+		<value>xzwfeax </value>
+	</data>
+	<data name="TryMsg" xml:space="preserve">
+		<value />
+	</data>
+	<data name="VirtualRealityTrial" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Vo_Dhuandhar_WakeUp" xml:space="preserve">
+		<value />
+	</data>
+	<data name="VR_platform_trial" xml:space="preserve">
+		<value>opqZvy fj,fyVh IysVQ‚eZ dh Vªk;y </value>
+	</data>
+	<data name="WelcomeBg" xml:space="preserve">
+		<value />
+	</data>
+	<data name="WellDoneMsg" xml:space="preserve">
+		<value />
+	</data>
+	<data name="ZoomMsg" xml:space="preserve">
+		<value />
+	</data>
+</root>

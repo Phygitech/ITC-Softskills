@@ -1,0 +1,520 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root><!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+	<data name="@_Chewing Gum_Mausi" xml:space="preserve">
+		<value />
+	</data>
+	<data name="@_Chi Chi_Mausi" xml:space="preserve">
+		<value />
+	</data>
+	<data name="@_Deo" xml:space="preserve">
+		<value />
+	</data>
+	<data name="@_Dont forget your water bottle" xml:space="preserve">
+		<value />
+	</data>
+	<data name="@_Gentlemen do not eat gutkha_Mausi" xml:space="preserve">
+		<value />
+	</data>
+	<data name="@_mausi_Shirt_hanging_out" xml:space="preserve">
+		<value />
+	</data>
+	<data name="@_NinjaMausi_intro" xml:space="preserve">
+		<value />
+	</data>
+	<data name="@_WakeUp" xml:space="preserve">
+		<value />
+	</data>
+	<data name="AppVO" xml:space="preserve">
+		<value>Which of these are appropriate to wear to work?</value>
+	</data>
+	<data name="ButtonIntroBg" xml:space="preserve">
+		<value>The controller has an ‘OK’ button, a 'BACK' button which also works as an  'ON' button when held, a 'Menu' button which also works as an 'OFF' button when held, and a 'Joystick'.</value>
+	</data>
+	<data name="C_Btn_ActivityMenu" xml:space="preserve">
+		<value>Activity menu</value>
+	</data>
+	<data name="C_Btn_No" xml:space="preserve">
+		<value>No</value>
+	</data>
+	<data name="C_Btn_Quit" xml:space="preserve">
+		<value>Quit</value>
+	</data>
+	<data name="C_Btn_RestartActivity" xml:space="preserve">
+		<value>Restart activity</value>
+	</data>
+	<data name="C_Btn_Resume" xml:space="preserve">
+		<value>Resume</value>
+	</data>
+	<data name="C_Btn_Yes" xml:space="preserve">
+		<value>Yes</value>
+	</data>
+	<data name="C_Continue" xml:space="preserve">
+		<value>CONTINUE</value>
+	</data>
+	<data name="C_ContinueProceed" xml:space="preserve">
+		<value>You have completed this level. Select CONTINUE to proceed.</value>
+	</data>
+	<data name="C_Inst_CheckNetworkConnection" xml:space="preserve">
+		<value>Please check your network connection or try again later.</value>
+	</data>
+	<data name="C_Inst_QuitMessage" xml:space="preserve">
+		<value>Are you sure you want to quit?</value>
+	</data>
+	<data name="C_Inst_ServerError" xml:space="preserve">
+		<value>Internal server error</value>
+	</data>
+	<data name="C_Timer" xml:space="preserve">
+		<value>Time</value>
+	</data>
+	<data name="C_TipIns" xml:space="preserve">
+		<value>Select TIPS to continue.</value>
+	</data>
+	<data name="C_TryAgain1" xml:space="preserve">
+		<value>Try again.</value>
+	</data>
+	<data name="C_TryAgain2" xml:space="preserve">
+		<value>That's not it.</value>
+	</data>
+	<data name="C_TryAgain3" xml:space="preserve">
+		<value>Not quite right.</value>
+	</data>
+	<data name="C_WellDone1" xml:space="preserve">
+		<value>Well done!</value>
+	</data>
+	<data name="C_WellDone2" xml:space="preserve">
+		<value>Correct!</value>
+	</data>
+	<data name="C_WellDone3" xml:space="preserve">
+		<value>Right!</value>
+	</data>
+	<data name="Choose_Language" xml:space="preserve">
+		<value>Choose language</value>
+	</data>
+	<data name="ChoseVO" xml:space="preserve">
+		<value>Which of these two would you choose to wear to work?</value>
+	</data>
+	<data name="Clapping_mausi" xml:space="preserve">
+		<value />
+	</data>
+	<data name="ClickMe" xml:space="preserve">
+		<value>Click here</value>
+	</data>
+	<data name="Close" xml:space="preserve">
+		<value>Close</value>
+	</data>
+	<data name="ContinueBtn" xml:space="preserve">
+		<value>CONTINUE</value>
+	</data>
+	<data name="DragDropMsg" xml:space="preserve">
+		<value>To pick an object, you need to locate it, then press and hold the 'OK' button. Turn your head right or left to move the object, then release the OK button to drop the object.</value>
+	</data>
+	<data name="Exit" xml:space="preserve">
+		<value>Exit</value>
+	</data>
+	<data name="ExitMsg" xml:space="preserve">
+		<value>Select CONTINUE to proceed.</value>
+	</data>
+	<data name="Instruction" xml:space="preserve">
+		<value>Your Instruction Here</value>
+	</data>
+	<data name="IntroHeading1" xml:space="preserve">
+		<value>Cleanliness is next to godliness. It is best for all of us to maintain adequate hygiene standards.</value>
+	</data>
+	<data name="IntroHeading2" xml:space="preserve">
+		<value>Clothes maketh a man a gentleman- so choose your attire wisely.</value>
+	</data>
+	<data name="IntroImage1" xml:space="preserve">
+		<value>Personal hygiene is the daily maintenance of cleanliness and grooming of your body. Make sure that every morning you brush your teeth and freshen up. Take bath daily, shave if required and use a good quality deodorant. And finally, always wear clean, well ironed clothes.</value>
+	</data>
+	<data name="IntroImage2" xml:space="preserve">
+		<value>Your hair is your crowning glory that can make or break your appearance. Make sure that your haircut is neat and simple or is a buzz cut, which has zero maintenance. Long streaked hair, man buns and ponytails, mohawks and uneven haircuts, might look stylish,  but these are not acceptable looks at a workplace.</value>
+	</data>
+	<data name="IntroImage3" xml:space="preserve">
+		<value>How you maintain your facial hair, says a lot about your personality.While keeping a clean shaven look is the most commonly accepted formal look, a neat moustache, or a well groomed beard or even a clean looking stubble also go a long way in defining a gentlemanly look.Fancy moustaches like handlebars and antennae, as well as long unkempt beards that give a shaggy look are not advisable for workplaces.</value>
+	</data>
+	<data name="IntroImage4" xml:space="preserve">
+		<value>As a rule, the simpler the better. In office clothing, formal shirts are highly recommended. These shirts don’t have to be long-sleeved and you can wear a short-sleeved shirt too. They can be striped or checked but avoid thick stripes, large checks, patterns or outlandish colors.</value>
+	</data>
+	<data name="IntroImage5" xml:space="preserve">
+		<value>As a rule, the simpler the better. In office clothing, formal collared t-shirts are also recommended. The t-shirts can be plain or with a small logo on the pocket. They could also have some basic striped designs, but outlandish prints, graphics and graffiti with loud colors are strictly to be avoided. Remember t-shirts combine well with denims and sneakers, and shirts team well with trousers or denims completing the overall look with shoes.</value>
+	</data>
+	<data name="IntroImage6" xml:space="preserve">
+		<value>Trousers should preferably be dark, though you may wear a light color too. Beige trousers look outstandingly formal, when worn with a dark shirt. The trousers must be formal -no casual cotton trousers, cargos or track pants are acceptable at the workplace.</value>
+	</data>
+	<data name="IntroImage7" xml:space="preserve">
+		<value>Wear clean socks and  shoes. Make sure socks are long and shoes are formal. And if you wear sneakers, they should be simple! Sandals, ketos, chappals, slippers and boots are not acceptable footwear at work.</value>
+	</data>
+	<data name="IntroSlide" xml:space="preserve">
+		<value>									Hello Team Members, 
+
+Welcome to our newest engagement with you. 
+
+We have picked up challenges that you face in your day to day life &amp; simulated them in an exciting gaming format. 
+We will touch on areas like grooming, body language, communication skills &amp; customer typology, &amp; we hope that you come out from this better equipped to do your job than ever before.
+
+Tell me &amp; I forget,
+Teach me &amp; I remember 
+Involve me &amp; I learn
+			
+					SO HAPPY GAMING &amp; HAPPY LEARNING !</value>
+	</data>
+	<data name="L1_Inst_DragWithinTwoMin" xml:space="preserve">
+		<value>Complete all your tasks in the order you see a best fit, by dragging them into the priority buckets. You will be given 2 minutes to complete the task.</value>
+	</data>
+	<data name="L1_Inst_Probs" xml:space="preserve">
+		<value>Please note that there are 15 tasks shown below- you need to rate them in order of priority showing what you think is important &amp; what is less so. The highest points you can score here is 150 &amp; the task needs to be completed within 2 minutes.</value>
+	</data>
+	<data name="L2_Asso" xml:space="preserve">
+		<value>Accessories</value>
+	</data>
+	<data name="L2_Belt" xml:space="preserve">
+		<value>Belt</value>
+	</data>
+	<data name="L2_BrOst" xml:space="preserve">
+		<value>It is I.Ts bedroom. He is getting ready, so he is looking at his cupboard. He needs to select his outfit for the day. </value>
+	</data>
+	<data name="L2_CollorTees" xml:space="preserve">
+		<value>Collar tees</value>
+	</data>
+	<data name="L2_Denim" xml:space="preserve">
+		<value>Denim</value>
+	</data>
+	<data name="L2_Footwear" xml:space="preserve">
+		<value>Footwear</value>
+	</data>
+	<data name="L2_Inst_LikeAnyOf" xml:space="preserve">
+		<value>Do you like any of these?</value>
+	</data>
+	<data name="L2_Inst_PickAny" xml:space="preserve">
+		<value>Pick any one of these as your choice?</value>
+	</data>
+	<data name="L2_Inst_WhichAppropriate" xml:space="preserve">
+		<value>Which one do you think is appropriate?</value>
+	</data>
+	<data name="L2_Inst_WhichChoose" xml:space="preserve">
+		<value>Which of these would you choose?</value>
+	</data>
+	<data name="L2_Inst_WhichSelect" xml:space="preserve">
+		<value>Which of these would you select?</value>
+	</data>
+	<data name="L2_NorTrouser" xml:space="preserve">
+		<value>Normal trouser</value>
+	</data>
+	<data name="L2_PlainDenim" xml:space="preserve">
+		<value>Plain denim</value>
+	</data>
+	<data name="L2_RegShirt" xml:space="preserve">
+		<value>Regular collar shirts</value>
+	</data>
+	<data name="L2_Shirt" xml:space="preserve">
+		<value>Shirts</value>
+	</data>
+	<data name="L2_Shoes" xml:space="preserve">
+		<value>Shoes</value>
+	</data>
+	<data name="L2_Socks" xml:space="preserve">
+		<value>Socks</value>
+	</data>
+	<data name="L2_Tees" xml:space="preserve">
+		<value>Tees</value>
+	</data>
+	<data name="L2_Trouser" xml:space="preserve">
+		<value>Trouser</value>
+	</data>
+	<data name="L3_Agnikanth" xml:space="preserve">
+		<value>Agnikanth</value>
+	</data>
+	<data name="L3_BodyJwell" xml:space="preserve">
+		<value>Body jewellery</value>
+	</data>
+	<data name="L3_Dhuandhar" xml:space="preserve">
+		<value>Dhuandhar</value>
+	</data>
+	<data name="L3_FacialHair" xml:space="preserve">
+		<value>Hair style</value>
+	</data>
+	<data name="L3_HairStyleLabel" xml:space="preserve">
+		<value>Hair style</value>
+	</data>
+	<data name="L3_Inst_CharInst" xml:space="preserve">
+		<value>You have completed the given task. Select the three characters one by one to see their introduction.</value>
+	</data>
+	<data name="L3_Inst_ChooseChar" xml:space="preserve">
+		<value>Now you have to choose one out of these three characters who will represent you for the rest of the gameplay.</value>
+	</data>
+	<data name="L3_Inst_DhuadharIntro" xml:space="preserve">
+		<value>Good morning, I’m Dhuandhar. I’m fit. I believe that how I present myself in my work life makes a lot of difference and therefore is extremely important.</value>
+	</data>
+	<data name="L3_Mashaal" xml:space="preserve">
+		<value>Mashaal Singh</value>
+	</data>
+	<data name="L3_Nails" xml:space="preserve">
+		<value>Nails</value>
+	</data>
+	<data name="L3_SelectContinue" xml:space="preserve">
+		<value>Select CONTINUE to proceed.</value>
+	</data>
+	<data name="L3_SelectOpt" xml:space="preserve">
+		<value>From the following options, choose the correct choice according to you.</value>
+	</data>
+	<data name="L4_Inst_ModuleComplete" xml:space="preserve">
+		<value>You have completed this module. Select OK to go back to the  main menu.</value>
+	</data>
+	<data name="Level1" xml:space="preserve">
+		<value>Level 1</value>
+	</data>
+	<data name="Level2" xml:space="preserve">
+		<value>Level 2</value>
+	</data>
+	<data name="Level3" xml:space="preserve">
+		<value>Level 3</value>
+	</data>
+	<data name="Level4" xml:space="preserve">
+		<value>Level 4</value>
+	</data>
+	<data name="LookAroundMsg" xml:space="preserve">
+		<value>To look around in the environment or change your direction while moving, you can move your head left or right.</value>
+	</data>
+	<data name="M1L1_GameplayIntro" xml:space="preserve">
+		<value>Now that we have refreshed our knowledge on grooming, let us play a game to see how much we have understood from what was taught to us today.
+
+● The game is to be played on the Virtual Reality platform, which will give you a 
+    feeling of being completely immersed within the scenes shared with you.
+
+● Each scene is from your daily activities and you need to make the correct 
+   choices to win points and make quick progress in the game.
+
+● Remember to read and understand all instructions carefully before you begin, as 
+   activities would be timed ones that would require you to finish tasks within the 
+   given time frame; so keep your eyes on the countdown timer as well.
+
+● You will be given a trial of the Virtual reality platform before you begin, so that 
+   you are comfortable with all the operations.</value>
+	</data>
+	<data name="mausi_dirty_hair" xml:space="preserve">
+		<value />
+	</data>
+	<data name="mausi_KEEP_FACE_CLEAN" xml:space="preserve">
+		<value />
+	</data>
+	<data name="mausi_PULL_YOU_SOCKS" xml:space="preserve">
+		<value />
+	</data>
+	<data name="mausi_well_fitted_watch" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Menu_Level1" xml:space="preserve">
+		<value>The importance of grooming</value>
+	</data>
+	<data name="MoveForwardMsg" xml:space="preserve">
+		<value>Push the joystick forward or backward to move in that direction.</value>
+	</data>
+	<data name="MoveHighLightArea" xml:space="preserve">
+		<value>Move near the highlighted area.</value>
+	</data>
+	<data name="New Key6" xml:space="preserve">
+		<value>New Value</value>
+	</data>
+	<data name="Objective" xml:space="preserve">
+		<value>Objective</value>
+	</data>
+	<data name="ObjectiveContent" xml:space="preserve">
+		<value>A quick brown fox jumped over the lazy dog.
+A quick brown fox jumped over the lazy dog.
+A quick brown fox jumped over the lazy dog.</value>
+	</data>
+	<data name="OkBtn" xml:space="preserve">
+		<value>OK</value>
+	</data>
+	<data name="Panel_ContinueBtn" xml:space="preserve">
+		<value>Select CONTINUE to proceed.</value>
+	</data>
+	<data name="Probs" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Score" xml:space="preserve">
+		<value>Score</value>
+	</data>
+	<data name="SelectMsg" xml:space="preserve">
+		<value>Select the object using the 'OK' button.</value>
+	</data>
+	<data name="Selectrightans" xml:space="preserve">
+		<value>Click on the dropdown to select the type of instrument.</value>
+	</data>
+	<data name="Setup" xml:space="preserve">
+		<value>Setup</value>
+	</data>
+	<data name="SetupIntro" xml:space="preserve">
+		<value>Now that we have refreshed our knowledge on grooming, let us play a game to see how much we have understood from what was taught to us today.
+
+●The game is to be played on the Virtual Reality platform, which will give you a feeling 
+  of being completely immersed within the scenes shared with you.
+●Each scene is from your daily activities and you need to make the correct choices to 
+  win points and make quick progress in the game.
+●The screen will display some avatars (animated images), of which you would need to 
+  select one that will be your representative in the gameplay.
+●Remember to read and understand all instructions carefully before you begin, as 
+  activities would be timed ones that would require you to finish tasks within the given 
+  time frame; so keep your eyes on the countdown timer as well.
+●You will be given a trial of the Virtual reality platform before you begin, so that you are 
+  comfortable with all the operations.</value>
+	</data>
+	<data name="Task_Completed" xml:space="preserve">
+		<value>You have completed this level. Select CONTINUE to proceed.</value>
+	</data>
+	<data name="Tips" xml:space="preserve">
+		<value>TIPS</value>
+	</data>
+	<data name="Tips_1" xml:space="preserve">
+		<value>Tip 1</value>
+	</data>
+	<data name="Tips_2" xml:space="preserve">
+		<value>Tip 2</value>
+	</data>
+	<data name="Tips_3" xml:space="preserve">
+		<value>Tip 3</value>
+	</data>
+	<data name="Tips_4" xml:space="preserve">
+		<value>Tip 4</value>
+	</data>
+	<data name="Title" xml:space="preserve">
+		<value>Grooming</value>
+	</data>
+	<data name="TryMsg" xml:space="preserve">
+		<value>Now you try</value>
+	</data>
+	<data name="VirtualRealityTrial" xml:space="preserve">
+		<value>Let’s begin with the trial of the virtual reality platform.</value>
+	</data>
+	<data name="Vo_Dhuandhar_WakeUp" xml:space="preserve">
+		<value>New Value</value>
+	</data>
+	<data name="VR_platform_trial" xml:space="preserve">
+		<value>Trial of the virtual reality platform</value>
+	</data>
+	<data name="WelcomeBg" xml:space="preserve">
+		<value>Before beginning the simulation, let us first learn how to use the controller.</value>
+	</data>
+	<data name="WellDoneMsg" xml:space="preserve">
+		<value>Well done!</value>
+	</data>
+	<data name="ZoomMsg" xml:space="preserve">
+		<value>The joystick is also used to zoom in and out.</value>
+	</data>
+</root>

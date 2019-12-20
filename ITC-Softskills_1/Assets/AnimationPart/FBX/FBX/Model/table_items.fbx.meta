@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 04a1407bcff0f1e4cb90ca9e43e1a662
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Apple_Bowl
+    100002: Apple_Bowl1
+    100004: Apple_Grp
+    100006: Banana
+    100008: Bottel_Body
+    100010: Bottel_Cap
+    100012: Breakfast
+    100014: breakfast_Apple
+    100016: breakfast_Apple2
+    100018: breakfast_Apple_Grp
+    100020: breakfast_Banana1
+    100022: breakfast_Banana2
+    100024: breakfast_Banana3
+    100026: breakfast_Banana5
+    100028: breakfast_Egg2
+    100030: breakfast_Egg6
+    100032: breakfast_Egg_Grp1
+    100034: breakfast_Glass1
+    100036: breakfast_MIlk
+    100038: breakfast_Milk_Glass1
+    100040: Breakfast_Plate
+    100042: breakfast_Plate
+    100044: breakfast_Sandwich
+    100046: Charger1
+    100048: Charger_Set
+    100050: Cup
+    100052: Cup 1
+    100054: Hand_Bag
+    100056: Mobile
+    100058: Oven
+    100060: //RootNode
+    100062: Tea
+    100064: Tiffin
+    100066: Towel
+    100068: Towel2
+    100070: Water3
+    100072: Water_Bottel
+    400000: Apple_Bowl
+    400002: Apple_Bowl1
+    400004: Apple_Grp
+    400006: Banana
+    400008: Bottel_Body
+    400010: Bottel_Cap
+    400012: Breakfast
+    400014: breakfast_Apple
+    400016: breakfast_Apple2
+    400018: breakfast_Apple_Grp
+    400020: breakfast_Banana1
+    400022: breakfast_Banana2
+    400024: breakfast_Banana3
+    400026: breakfast_Banana5
+    400028: breakfast_Egg2
+    400030: breakfast_Egg6
+    400032: breakfast_Egg_Grp1
+    400034: breakfast_Glass1
+    400036: breakfast_MIlk
+    400038: breakfast_Milk_Glass1
+    400040: Breakfast_Plate
+    400042: breakfast_Plate
+    400044: breakfast_Sandwich
+    400046: Charger1
+    400048: Charger_Set
+    400050: Cup
+    400052: Cup 1
+    400054: Hand_Bag
+    400056: Mobile
+    400058: Oven
+    400060: //RootNode
+    400062: Tea
+    400064: Tiffin
+    400066: Towel
+    400068: Towel2
+    400070: Water3
+    400072: Water_Bottel
+    2100000: Tiffin_MAT
+    2100002: Bag
+    2100004: pin_blinn8SG3
+    2100006: pin__Phon_3_Mat_4SG1
+    2100008: Charger
+    2100010: breakfast_Apple_shader
+    2100012: breakfast_apple_Stem_shader
+    2100014: breakfast_Sandwich1
+    2100016: breakfast_Bottle_Glass
+    2100018: breakfast_Milk_Mesh
+    2100020: breakfast_Food_Diff
+    2100022: breakfast_banana_Diff
+    2100024: Plates_Bowl
+    2100026: Quater_Apple_Diff
+    2100028: Bottel_Cap1
+    2100030: Bottel_Bottel1
+    2100032: Water2
+    2100034: Cup_Tea
+    2100036: Towel1
+    2300000: Apple_Bowl
+    2300002: Apple_Bowl1
+    2300004: Bottel_Body
+    2300006: Bottel_Cap
+    2300008: breakfast_Apple
+    2300010: breakfast_Apple2
+    2300012: breakfast_Banana1
+    2300014: breakfast_Banana2
+    2300016: breakfast_Banana3
+    2300018: breakfast_Banana5
+    2300020: breakfast_Egg2
+    2300022: breakfast_Egg6
+    2300024: breakfast_Glass1
+    2300026: breakfast_MIlk
+    2300028: breakfast_Plate
+    2300030: breakfast_Sandwich
+    2300032: Charger1
+    2300034: Cup 1
+    2300036: Hand_Bag
+    2300038: Mobile
+    2300040: Oven
+    2300042: Tea
+    2300044: Tiffin
+    2300046: Towel2
+    2300048: Water3
+    3300000: Apple_Bowl
+    3300002: Apple_Bowl1
+    3300004: Bottel_Body
+    3300006: Bottel_Cap
+    3300008: breakfast_Apple
+    3300010: breakfast_Apple2
+    3300012: breakfast_Banana1
+    3300014: breakfast_Banana2
+    3300016: breakfast_Banana3
+    3300018: breakfast_Banana5
+    3300020: breakfast_Egg2
+    3300022: breakfast_Egg6
+    3300024: breakfast_Glass1
+    3300026: breakfast_MIlk
+    3300028: breakfast_Plate
+    3300030: breakfast_Sandwich
+    3300032: Charger1
+    3300034: Cup 1
+    3300036: Hand_Bag
+    3300038: Mobile
+    3300040: Oven
+    3300042: Tea
+    3300044: Tiffin
+    3300046: Towel2
+    3300048: Water3
+    4300000: Tiffin
+    4300002: Hand_Bag
+    4300004: Mobile
+    4300006: Oven
+    4300008: Charger1
+    4300010: breakfast_Apple
+    4300012: breakfast_Apple2
+    4300014: breakfast_Sandwich
+    4300016: breakfast_Glass1
+    4300018: breakfast_MIlk
+    4300020: breakfast_Egg2
+    4300022: breakfast_Egg6
+    4300024: breakfast_Banana5
+    4300026: breakfast_Banana3
+    4300028: breakfast_Banana2
+    4300030: breakfast_Banana1
+    4300032: breakfast_Plate
+    4300034: Apple_Bowl
+    4300036: Apple_Bowl1
+    4300038: Bottel_Cap
+    4300040: Bottel_Body
+    4300042: Water3
+    4300044: Tea
+    4300046: Cup
+    4300048: Towel2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
