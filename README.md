@@ -1,7 +1,6 @@
 # ITC-Softskills
  A soft skill traning program made in VR using Unity
- ---
- _Current Used Unity Version : 2017.4.6_
+ (_Current Used Unity Version : 2017.4.6_)
 
 This repository use tags for versioning. Look in the [Releases](https://github.com/Phygitech/ITC-Softskills)
 section to download the source for specific other Unity version, or use git
