@@ -1,4 +1,6 @@
 # ITC-Softskills
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPhygitech%2FITC-Softskills.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FPhygitech%2FITC-Softskills?ref=badge_shield)
+
  A soft skill traning program made in VR using Unity
  (_Current Used Unity Version : 2017.4.6_)
 
@@ -20,3 +22,7 @@ GUI client, please refer to their respective documentation
 ## Description
 
 This project is a soft skills based VR solution made in Unity. Using this project, the user is required to work through various scenarios and perform tasks and activities like putting the items in priority buckets, choosing responses based upon types of customers, and so on
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPhygitech%2FITC-Softskills.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPhygitech%2FITC-Softskills?ref=badge_large)
